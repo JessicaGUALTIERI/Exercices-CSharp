@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-conditions
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-conditions.deps.json
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-conditions.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-conditions.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-conditions.pdb
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/refint/TP-conditions.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.pdb
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-conditions.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/ref/TP-conditions.dll

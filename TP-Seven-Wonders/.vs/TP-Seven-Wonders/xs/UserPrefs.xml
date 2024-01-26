@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CC9AED35-2FFE-4F92-9B16-85ED8796F95A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Seven-Wonders/Program.cs">
+    <Files>
+      <File FileName="TP-Seven-Wonders/Program.cs" Line="34" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Seven-Wonders" expanded="True">
+            <Node name="TP-Seven-Wonders" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-Seven-Wonders PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

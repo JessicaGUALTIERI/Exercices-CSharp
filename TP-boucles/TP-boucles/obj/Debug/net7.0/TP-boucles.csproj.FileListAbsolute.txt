@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/bin/Debug/net7.0/TP-boucles
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/bin/Debug/net7.0/TP-boucles.deps.json
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/bin/Debug/net7.0/TP-boucles.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/bin/Debug/net7.0/TP-boucles.dll
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/bin/Debug/net7.0/TP-boucles.pdb
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.dll
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/refint/TP-boucles.dll
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.pdb
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/TP-boucles.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-boucles/TP-boucles/obj/Debug/net7.0/ref/TP-boucles.dll

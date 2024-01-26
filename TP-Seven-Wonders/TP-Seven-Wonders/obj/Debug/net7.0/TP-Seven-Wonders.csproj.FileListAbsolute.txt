@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/bin/Debug/net7.0/TP-Seven-Wonders
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/bin/Debug/net7.0/TP-Seven-Wonders.deps.json
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/bin/Debug/net7.0/TP-Seven-Wonders.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/bin/Debug/net7.0/TP-Seven-Wonders.dll
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/bin/Debug/net7.0/TP-Seven-Wonders.pdb
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.dll
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/refint/TP-Seven-Wonders.dll
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.pdb
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/TP-Seven-Wonders.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Seven-Wonders/TP-Seven-Wonders/obj/Debug/net7.0/ref/TP-Seven-Wonders.dll

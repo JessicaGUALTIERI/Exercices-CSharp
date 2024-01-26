@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-25012024
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-25012024.deps.json
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-25012024.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-25012024.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/bin/Debug/net7.0/TP-25012024.pdb
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/refint/TP-25012024.dll
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.pdb
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/TP-25012024.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-25012024/TP-25012024/obj/Debug/net7.0/ref/TP-25012024.dll

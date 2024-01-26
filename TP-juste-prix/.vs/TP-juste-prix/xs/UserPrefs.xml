@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{753C0D21-4C4D-4275-BD92-74192E269A6C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Program.cs">
+    <Files>
+      <File FileName="TP-juste-prix/Program.cs" Line="57" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-juste-prix" expanded="True">
+            <Node name="TP-juste-prix" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-juste-prix PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

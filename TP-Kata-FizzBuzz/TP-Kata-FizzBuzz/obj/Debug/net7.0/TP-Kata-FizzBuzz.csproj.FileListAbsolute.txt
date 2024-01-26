@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/bin/Debug/net7.0/TP-Kata-FizzBuzz
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/bin/Debug/net7.0/TP-Kata-FizzBuzz.deps.json
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/bin/Debug/net7.0/TP-Kata-FizzBuzz.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/bin/Debug/net7.0/TP-Kata-FizzBuzz.dll
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/bin/Debug/net7.0/TP-Kata-FizzBuzz.pdb
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.dll
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/refint/TP-Kata-FizzBuzz.dll
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.pdb
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/TP-Kata-FizzBuzz.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Kata-FizzBuzz/TP-Kata-FizzBuzz/obj/Debug/net7.0/ref/TP-Kata-FizzBuzz.dll

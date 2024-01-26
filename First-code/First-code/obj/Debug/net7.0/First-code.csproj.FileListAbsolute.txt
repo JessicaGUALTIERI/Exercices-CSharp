@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/First-code/First-code/bin/Debug/net7.0/First-code
+/Users/gualtierijessica/Projects/First-code/First-code/bin/Debug/net7.0/First-code.deps.json
+/Users/gualtierijessica/Projects/First-code/First-code/bin/Debug/net7.0/First-code.runtimeconfig.json
+/Users/gualtierijessica/Projects/First-code/First-code/bin/Debug/net7.0/First-code.dll
+/Users/gualtierijessica/Projects/First-code/First-code/bin/Debug/net7.0/First-code.pdb
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.dll
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/refint/First-code.dll
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.pdb
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/First-code.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/First-code/First-code/obj/Debug/net7.0/ref/First-code.dll

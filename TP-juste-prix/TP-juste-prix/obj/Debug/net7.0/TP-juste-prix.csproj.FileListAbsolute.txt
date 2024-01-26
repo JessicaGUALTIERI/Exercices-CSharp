@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/bin/Debug/net7.0/TP-juste-prix
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/bin/Debug/net7.0/TP-juste-prix.deps.json
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/bin/Debug/net7.0/TP-juste-prix.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/bin/Debug/net7.0/TP-juste-prix.dll
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/bin/Debug/net7.0/TP-juste-prix.pdb
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.dll
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/refint/TP-juste-prix.dll
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.pdb
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/ref/TP-juste-prix.dll
