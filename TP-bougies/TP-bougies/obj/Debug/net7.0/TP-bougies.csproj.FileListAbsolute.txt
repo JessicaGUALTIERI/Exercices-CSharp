@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/bin/Debug/net7.0/TP-bougies
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/bin/Debug/net7.0/TP-bougies.deps.json
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/bin/Debug/net7.0/TP-bougies.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/bin/Debug/net7.0/TP-bougies.dll
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/bin/Debug/net7.0/TP-bougies.pdb
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.dll
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/refint/TP-bougies.dll
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.pdb
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/TP-bougies.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-bougies/TP-bougies/obj/Debug/net7.0/ref/TP-bougies.dll

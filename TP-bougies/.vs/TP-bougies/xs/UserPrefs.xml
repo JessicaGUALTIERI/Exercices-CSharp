@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{999EE676-048F-42AF-B402-4369C44A3C3A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TP-bougies FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-bougies/Program.cs">
+    <Files>
+      <File FileName="TP-bougies/Program.cs" Line="17" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-bougies" expanded="True">
+            <Node name="TP-bougies">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-bougies PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

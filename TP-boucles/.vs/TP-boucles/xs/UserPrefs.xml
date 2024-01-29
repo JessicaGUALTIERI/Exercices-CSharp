@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{942C9F5B-B59B-4BA5-843A-5F72C881743D}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TP-boucles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-boucles/Program.cs">
     <Files>
-      <File FileName="TP-boucles/Program.cs" Line="23" Column="14" />
+      <File FileName="TP-boucles/Program.cs" Line="42" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +18,11 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-boucles PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

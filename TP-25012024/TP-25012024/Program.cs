@@ -21,8 +21,7 @@ namespace Program
 
             // Niveau 1
             Console.WriteLine("Quel est votre âge ?");
-            string ageString = Console.ReadLine();
-            int age = int.Parse(ageString);
+            int age = int.Parse(Console.ReadLine());
             if (age > 0 && age < 18)
             {
                 Console.WriteLine("Vous êtes mineur.e.");
@@ -38,12 +37,12 @@ namespace Program
 
             // Niveau 2
             Console.WriteLine("Veuillez entrer trois nombres.\nPremier nombre : ");
-            int nb1 = int.Parse(Console.ReadLine());
+            int nombre1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Deuxième nombre :");
-            int nb2 = int.Parse(Console.ReadLine());
+            int nombre2 = int.Parse(Console.ReadLine());
             Console.WriteLine("Troisième nombre :");
-            int nb3 = int.Parse(Console.ReadLine());
-            if (nb1 <= nb2 && nb2 <= nb3)
+            int nombre3 = int.Parse(Console.ReadLine());
+            if (nombre1 <= nombre2 && nombre2 <= nombre3)
             {
                 Console.WriteLine("Les nombres ont bien été entrés dans l'ordre croissant.");
 
@@ -55,17 +54,17 @@ namespace Program
 
             // Niveau 3
             Console.WriteLine("Veuillez entrer le niveau souhaité pour le boss : ");
-            int lvlBoss = int.Parse(Console.ReadLine());
-            if (lvlBoss > 0 && lvlBoss < 5)
-                Console.WriteLine("PV du boss lvl " + lvlBoss + " : " + 10 + ".");
-            else if (lvlBoss >= 5 && lvlBoss < 10)
-                Console.WriteLine("PV du boss lvl " + lvlBoss + " : " + 20 + ".");
-            else if (lvlBoss >= 10 && lvlBoss < 20)
-                Console.WriteLine("PV du boss lvl " + lvlBoss + " : " + 50 + ".");
-            else if (lvlBoss >= 20 && lvlBoss <= 30)
-                Console.WriteLine("PV du boss lvl " + lvlBoss + " : " + 100 + ".");
-            else if (lvlBoss > 30)
-                Console.WriteLine("Le boss lvl " + lvlBoss + " est trop HL pour l'instant.");
+            int levelBoss = int.Parse(Console.ReadLine());
+            if (levelBoss > 0 && levelBoss < 5)
+                Console.WriteLine("PV du boss lvl " + levelBoss + " : " + 10 + ".");
+            else if (levelBoss >= 5 && levelBoss < 10)
+                Console.WriteLine("PV du boss lvl " + levelBoss + " : " + 20 + ".");
+            else if (levelBoss >= 10 && levelBoss < 20)
+                Console.WriteLine("PV du boss lvl " + levelBoss + " : " + 50 + ".");
+            else if (levelBoss >= 20 && levelBoss <= 30)
+                Console.WriteLine("PV du boss lvl " + levelBoss + " : " + 100 + ".");
+            else if (levelBoss > 30)
+                Console.WriteLine("Le boss lvl " + levelBoss + " est trop HL pour l'instant.");
             else
                 Console.WriteLine("Un niveau négatif n'existe pas.");
         }

@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/bin/Debug/net7.0/TP-afficher-étoiles
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/bin/Debug/net7.0/TP-afficher-étoiles.deps.json
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/bin/Debug/net7.0/TP-afficher-étoiles.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/bin/Debug/net7.0/TP-afficher-étoiles.dll
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/bin/Debug/net7.0/TP-afficher-étoiles.pdb
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.dll
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/refint/TP-afficher-étoiles.dll
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.pdb
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/TP-afficher-étoiles.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-afficher-étoiles/TP-afficher-étoiles/obj/Debug/net7.0/ref/TP-afficher-étoiles.dll
