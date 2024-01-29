@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/bin/Debug/net7.0/TP-machine-à-sous
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/bin/Debug/net7.0/TP-machine-à-sous.deps.json
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/bin/Debug/net7.0/TP-machine-à-sous.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/bin/Debug/net7.0/TP-machine-à-sous.dll
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/bin/Debug/net7.0/TP-machine-à-sous.pdb
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.dll
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/refint/TP-machine-à-sous.dll
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.pdb
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/TP-machine-à-sous.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-machine-à-sous/TP-machine-à-sous/obj/Debug/net7.0/ref/TP-machine-à-sous.dll
