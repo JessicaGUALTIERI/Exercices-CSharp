@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{8367FCC6-03DB-4B40-833C-DEA30B7C0A9F}|Default">
+﻿<Properties StartupConfiguration="{7499A42F-2BB4-43D0-8DC7-E4B6E17B1566}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TP-machine-à-sous PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-machine-à-sous/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-conversion-chiffres-romains/Program.cs">
     <Files>
-      <File FileName="TP-machine-à-sous/Program.cs" Line="18" Column="81" />
+      <File FileName="TP-conversion-chiffres-romains/Program.cs" Line="106" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-machine-à-sous" expanded="True">
-            <Node name="TP-machine-à-sous">
+          <Node name="TP-conversion-chiffres-romains" expanded="True">
+            <Node name="TP-conversion-chiffres-romains">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +20,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TP-conversion-chiffres-romains PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

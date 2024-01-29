@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/bin/Debug/net7.0/TP-conversion-chiffres-romains
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/bin/Debug/net7.0/TP-conversion-chiffres-romains.deps.json
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/bin/Debug/net7.0/TP-conversion-chiffres-romains.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/bin/Debug/net7.0/TP-conversion-chiffres-romains.dll
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/bin/Debug/net7.0/TP-conversion-chiffres-romains.pdb
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.dll
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/refint/TP-conversion-chiffres-romains.dll
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.pdb
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/TP-conversion-chiffres-romains.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-conversion-chiffres-romains/TP-conversion-chiffres-romains/obj/Debug/net7.0/ref/TP-conversion-chiffres-romains.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TP-conversion-chiffres-romains/1.0.0": {
+        "runtime": {
+          "TP-conversion-chiffres-romains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP-conversion-chiffres-romains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
