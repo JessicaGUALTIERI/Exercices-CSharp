@@ -1,14 +1,15 @@
-﻿<Properties StartupConfiguration="{A0F3F664-4A18-4789-A771-160EBB718BDC}|Default">
+﻿<Properties StartupConfiguration="{9A93AE8E-61D1-47A3-8A2C-DB3D4B357C0A}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP - collections/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.TP_220-_220résolveur_220de_220sudoku FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP - résolveur de sudoku/Program.cs">
     <Files>
-      <File FileName="TP - collections/Program.cs" Line="43" Column="46" />
+      <File FileName="TP - résolveur de sudoku/Program.cs" Line="12" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP - collections">
-            <Node name="TP - collections">
+          <Node name="TP - résolveur de sudoku" expanded="True">
+            <Node name="TP - résolveur de sudoku">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +17,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TP_220-_220collections PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

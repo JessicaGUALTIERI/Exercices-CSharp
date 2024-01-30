@@ -46,6 +46,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
             dictionnaireFrancaisAnglais.Add("novembre", "november");
             dictionnaireFrancaisAnglais.Add("décembre", "december");
 
+            foreach (KeyValuePair<string, string> motFrancais in dictionnaireFrancaisAnglais)
+            {
+                Console.WriteLine(motFrancais);
+            }
+
             // Niveau 3.5 :
             // Consigne : Faire une fonction qui prend en paramètre un de ces dictionnaire ainsi qu'un mot et qui renvoie ce mot traduit par ce dictionnaire (si on lui passe "Hello" et un dictionnaire Anglais-Français, ça renvoie "Bonjour") 
             Console.WriteLine("\nNiveau 3.5 :");
