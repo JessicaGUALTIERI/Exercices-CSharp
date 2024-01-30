@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/bin/Debug/net7.0/TP - collections
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/bin/Debug/net7.0/TP - collections.deps.json
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/bin/Debug/net7.0/TP - collections.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/bin/Debug/net7.0/TP - collections.dll
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/bin/Debug/net7.0/TP - collections.pdb
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.dll
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/refint/TP - collections.dll
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.pdb
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/TP - collections.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - collections/TP - collections/obj/Debug/net7.0/ref/TP - collections.dll

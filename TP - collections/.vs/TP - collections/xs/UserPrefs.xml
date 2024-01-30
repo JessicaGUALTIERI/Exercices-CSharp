@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{753C0D21-4C4D-4275-BD92-74192E269A6C}|Default">
+﻿<Properties StartupConfiguration="{A0F3F664-4A18-4789-A771-160EBB718BDC}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP - collections/Program.cs">
     <Files>
-      <File FileName="TP-juste-prix/Program.cs" Line="45" Column="26" />
+      <File FileName="TP - collections/Program.cs" Line="48" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-juste-prix" expanded="True">
-            <Node name="TP-juste-prix" expanded="True">
+          <Node name="TP - collections" expanded="True">
+            <Node name="TP - collections">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,10 +16,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TP_220-_220collections PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.TP-juste-prix PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
