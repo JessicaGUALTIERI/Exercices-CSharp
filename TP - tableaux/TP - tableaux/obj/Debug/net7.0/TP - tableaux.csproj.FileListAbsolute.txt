@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/bin/Debug/net7.0/TP - tableaux
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/bin/Debug/net7.0/TP - tableaux.deps.json
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/bin/Debug/net7.0/TP - tableaux.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/bin/Debug/net7.0/TP - tableaux.dll
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/bin/Debug/net7.0/TP - tableaux.pdb
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.dll
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/refint/TP - tableaux.dll
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.pdb
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/TP - tableaux.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - tableaux/TP - tableaux/obj/Debug/net7.0/ref/TP - tableaux.dll

@@ -2,15 +2,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Program.cs">
     <Files>
-      <File FileName="TP-juste-prix/Program.cs" Line="16" Column="50" />
+      <File FileName="TP-juste-prix/Program.cs" Line="45" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-juste-prix" expanded="True">
-            <Node name="TP-juste-prix" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="TP-juste-prix">
+            <Node name="TP-juste-prix" expanded="True" />
           </Node>
         </State>
       </Pad>
