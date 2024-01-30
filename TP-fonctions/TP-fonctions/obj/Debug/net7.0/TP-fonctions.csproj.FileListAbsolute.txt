@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/bin/Debug/net7.0/TP-fonctions
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/bin/Debug/net7.0/TP-fonctions.deps.json
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/bin/Debug/net7.0/TP-fonctions.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/bin/Debug/net7.0/TP-fonctions.dll
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/bin/Debug/net7.0/TP-fonctions.pdb
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.dll
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/refint/TP-fonctions.dll
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.pdb
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/TP-fonctions.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-fonctions/TP-fonctions/obj/Debug/net7.0/ref/TP-fonctions.dll
