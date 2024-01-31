@@ -31,15 +31,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 { 'O', 'O', 'O', 'O', 'O', 'O'},
                 { 'O', 'O', 'O', 'O', 'O', 'O'},
                 { 'O', 'O', 'O', 'O', 'O', 'O'},
-                { 'O', 'O', 'O', 'X', 'O', 'O'},
+                { 'O', 'O', 'O', 'O', 'O', 'O'},
                 { 'O', 'O', 'O', 'O', 'O', 'O'},
                 { 'O', 'O', 'O', 'O', 'O', 'O'}
             };
 
             
             bool continuer = true;
-            int coordonneesDimension0Personnage = 3;
-            int coordonneesDimension1Personnage = 3;
+            Random random = new Random();
+            int coordonneesDimension0Personnage = random.Next(0,carteJeu.GetLength(1));
+            int coordonneesDimension1Personnage = random.Next(0, carteJeu.GetLength(1));
+            carteJeu[coordonneesDimension0Personnage, coordonneesDimension1Personnage] = 'X';
 
             Console.WriteLine("Voici la carte :");
             afficherCarte(carteJeu);

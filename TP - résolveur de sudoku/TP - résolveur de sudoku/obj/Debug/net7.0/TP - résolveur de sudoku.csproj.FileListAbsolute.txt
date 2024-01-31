@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/bin/Debug/net7.0/TP - résolveur de sudoku
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/bin/Debug/net7.0/TP - résolveur de sudoku.deps.json
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/bin/Debug/net7.0/TP - résolveur de sudoku.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/bin/Debug/net7.0/TP - résolveur de sudoku.dll
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/bin/Debug/net7.0/TP - résolveur de sudoku.pdb
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.dll
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/refint/TP - résolveur de sudoku.dll
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.pdb
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/TP - résolveur de sudoku.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - résolveur de sudoku/TP - résolveur de sudoku/obj/Debug/net7.0/ref/TP - résolveur de sudoku.dll

@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{9A93AE8E-61D1-47A3-8A2C-DB3D4B357C0A}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TP_220-_220résolveur_220de_220sudoku FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TP_220-_220résolveur_220de_220sudoku PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP - résolveur de sudoku/Program.cs">
     <Files>
-      <File FileName="TP - résolveur de sudoku/Program.cs" Line="12" Column="2" />
+      <File FileName="TP - résolveur de sudoku/Program.cs" Line="317" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP - résolveur de sudoku" expanded="True">
-            <Node name="TP - résolveur de sudoku">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="TP - résolveur de sudoku" expanded="True" />
         </State>
       </Pad>
     </Pads>
