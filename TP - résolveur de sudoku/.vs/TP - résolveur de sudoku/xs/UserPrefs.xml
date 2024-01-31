@@ -3,13 +3,11 @@
   <MonoDevelop.Ide.ItemProperties.TP_220-_220résolveur_220de_220sudoku PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP - résolveur de sudoku/Program.cs">
     <Files>
-      <File FileName="TP - résolveur de sudoku/Program.cs" Line="317" Column="31" />
+      <File FileName="TP - résolveur de sudoku/Program.cs" Line="423" Column="112" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="TP - résolveur de sudoku" expanded="True" />
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
