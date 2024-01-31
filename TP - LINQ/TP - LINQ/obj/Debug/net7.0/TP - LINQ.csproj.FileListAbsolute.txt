@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/bin/Debug/net7.0/TP - LINQ
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/bin/Debug/net7.0/TP - LINQ.deps.json
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/bin/Debug/net7.0/TP - LINQ.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/bin/Debug/net7.0/TP - LINQ.dll
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/bin/Debug/net7.0/TP - LINQ.pdb
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.dll
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/refint/TP - LINQ.dll
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.pdb
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/TP - LINQ.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - LINQ/TP - LINQ/obj/Debug/net7.0/ref/TP - LINQ.dll
