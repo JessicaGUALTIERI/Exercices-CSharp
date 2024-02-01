@@ -26,14 +26,14 @@ namespace MyApp
                 pathPlayerOne = 1;
                 pathPlayerTwo = 1;
                 round = 0;
-                while (pathPlayerOne != 50 && pathPlayerTwo != 50)
+                while (!Win(pathPlayerOne, pathPlayerTwo))
                 {
                     round++;
                     Console.WriteLine("\nMANCHE " + round);
 
                     pathPlayerOne = PlayingRound(namePlayerOne, pathPlayerOne, round);
 
-                    if (pathPlayerOne != 50)
+                    if (!Win(pathPlayerOne, pathPlayerTwo))
                     {
                         pathPlayerTwo = PlayingRound(namePlayerTwo, pathPlayerTwo, round);
                     }
@@ -41,8 +41,6 @@ namespace MyApp
                 playing = Replay();
             } while (playing);
         }
-
-
 
         public static int ThrowingDice()
         {
@@ -109,6 +107,11 @@ namespace MyApp
             {
                 return false;
             }
+        }
+
+        public static bool Win(int playerPathOne, int playerPathTwo)
+        {
+            return playerPathOne == 50 || playerPathTwo == 50;
         }
     }
 }
