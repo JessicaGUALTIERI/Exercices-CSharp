@@ -23,12 +23,14 @@ namespace MyApp
 
             do
             {
-                pathPlayerOne = 0;
-                pathPlayerTwo = 0;
+                pathPlayerOne = 1;
+                pathPlayerTwo = 1;
                 round = 0;
                 while (pathPlayerOne != 50 && pathPlayerTwo != 50)
                 {
                     round++;
+                    Console.WriteLine("\nMANCHE " + round);
+
                     pathPlayerOne = PlayingRound(namePlayerOne, pathPlayerOne, round);
 
                     if (pathPlayerOne != 50)
@@ -53,22 +55,41 @@ namespace MyApp
         public static int PlayingRound(string playerName, int playerPath, int round)
         {
             int dice = ThrowingDice();
+            Console.Write("\t" + playerName + "[" + playerPath + "]");
             playerPath += dice;
-            Console.Write("\nMANCHE " + round + " :\n\t" + playerName + " lance le dé : +" + dice + " !");
-            if (playerPath > 50)
+            Console.Write(" lance le dé : +" + dice + " !");
+            switch(playerPath)
             {
-                playerPath = 25;
-                Console.WriteLine(" Oh non, c'est trop pour atteindre la bonne case, retour case 25 !");
-            }
-            else
-            {
-                Console.WriteLine(" et avance à la case " + playerPath);
+                case > 50:
+                    playerPath = 25;
+                    Console.WriteLine(" Oh non, c'est trop pour atteindre la bonne case, retour case 25 !");
+                    break;
+                case 37:
+                    playerPath = 12;
+                    DisplayTrap(playerPath);
+                    break;
+                case 14:
+                    playerPath = 7;
+                    DisplayTrap(playerPath);
+                    break;
+                case 46:
+                    playerPath = 33;
+                    DisplayTrap(playerPath);
+                    break;
+                default:
+                    Console.WriteLine(" Elle avance à la case " + playerPath);
+                    break;
             }
             if (playerPath == 50)
             {
                 Console.WriteLine("\nFélicitations " + playerName + " ! Tu as atteint l'arrivée en " + round + " manches !");
             }
             return playerPath;
+        }
+
+        public static void DisplayTrap(int position)
+        {
+            Console.WriteLine(" Oh non, case piégée, retour case " + position + " !");
         }
 
         public static bool Replay()
