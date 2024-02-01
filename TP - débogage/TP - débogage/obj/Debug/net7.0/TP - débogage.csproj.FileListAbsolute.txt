@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/bin/Debug/net7.0/TP - débogage
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/bin/Debug/net7.0/TP - débogage.deps.json
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/bin/Debug/net7.0/TP - débogage.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/bin/Debug/net7.0/TP - débogage.dll
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/bin/Debug/net7.0/TP - débogage.pdb
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.dll
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/refint/TP - débogage.dll
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.pdb
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/TP - débogage.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - débogage/TP - débogage/obj/Debug/net7.0/ref/TP - débogage.dll

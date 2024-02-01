@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{6103309E-3DBB-4BAF-8599-1AA5040B7E6B}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP - LINQ/Program.cs">
     <Files>
-      <File FileName="TP - LINQ/Program.cs" Line="26" Column="38" />
+      <File FileName="TP - LINQ/Program.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP - LINQ" expanded="True">
-            <Node name="TP - LINQ">
+          <Node name="TP - LINQ">
+            <Node name="TP - LINQ" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

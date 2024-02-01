@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/bin/Debug/net7.0/TP - jeu du serpent
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/bin/Debug/net7.0/TP - jeu du serpent.deps.json
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/bin/Debug/net7.0/TP - jeu du serpent.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/bin/Debug/net7.0/TP - jeu du serpent.dll
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/bin/Debug/net7.0/TP - jeu du serpent.pdb
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.dll
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/refint/TP - jeu du serpent.dll
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.pdb
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/TP - jeu du serpent.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - jeu du serpent/TP - jeu du serpent/obj/Debug/net7.0/ref/TP - jeu du serpent.dll
