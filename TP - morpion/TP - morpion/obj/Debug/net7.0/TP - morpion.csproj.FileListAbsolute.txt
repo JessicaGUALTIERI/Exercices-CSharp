@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/bin/Debug/net7.0/TP - morpion
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/bin/Debug/net7.0/TP - morpion.deps.json
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/bin/Debug/net7.0/TP - morpion.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/bin/Debug/net7.0/TP - morpion.dll
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/bin/Debug/net7.0/TP - morpion.pdb
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.dll
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/refint/TP - morpion.dll
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.pdb
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/ref/TP - morpion.dll
