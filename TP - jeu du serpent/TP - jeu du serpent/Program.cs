@@ -74,6 +74,18 @@ namespace MyApp
                     playerPath = 33;
                     DisplayTrap(playerPath);
                     break;
+                case 20:
+                    playerPath = 35;
+                    DisplayBonus(playerPath);
+                    break;
+                case 2:
+                    playerPath = 17;
+                    DisplayBonus(playerPath);
+                    break;
+                case 31:
+                    playerPath = 43;
+                    DisplayBonus(playerPath);
+                    break;
                 default:
                     Console.WriteLine(" Elle avance à la case " + playerPath);
                     break;
@@ -88,6 +100,11 @@ namespace MyApp
         public static void DisplayTrap(int position)
         {
             Console.WriteLine(" Oh non, case piégée, retour case " + position + " !");
+        }
+
+        public static void DisplayBonus(int position)
+        {
+            Console.WriteLine(" Quelle chance, case bonus, avancée fulgurante à la case " + position + " !");
         }
 
         public static bool Replay()

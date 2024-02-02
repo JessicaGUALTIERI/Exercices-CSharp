@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{753C0D21-4C4D-4275-BD92-74192E269A6C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Program.cs">
+﻿<Properties StartupConfiguration="{D556A46C-C93B-433B-9E20-8795EB5ED351}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP_220-_220morpion PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP - morpion/Program.cs">
     <Files>
-      <File FileName="TP-juste-prix/Program.cs" Line="45" Column="26" />
+      <File FileName="TP - morpion/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-juste-prix" expanded="True">
-            <Node name="TP-juste-prix" expanded="True">
+          <Node name="TP - morpion" expanded="True">
+            <Node name="TP - morpion">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,7 +23,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TP-juste-prix PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
