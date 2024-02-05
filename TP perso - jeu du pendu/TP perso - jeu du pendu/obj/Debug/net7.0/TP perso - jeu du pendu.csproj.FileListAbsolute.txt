@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/bin/Debug/net7.0/TP perso - jeu du pendu
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/bin/Debug/net7.0/TP perso - jeu du pendu.deps.json
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/bin/Debug/net7.0/TP perso - jeu du pendu.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/bin/Debug/net7.0/TP perso - jeu du pendu.dll
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/bin/Debug/net7.0/TP perso - jeu du pendu.pdb
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.dll
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/refint/TP perso - jeu du pendu.dll
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.pdb
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/TP perso - jeu du pendu.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP perso - jeu du pendu/TP perso - jeu du pendu/obj/Debug/net7.0/ref/TP perso - jeu du pendu.dll

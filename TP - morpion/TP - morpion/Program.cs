@@ -214,7 +214,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             DisplayGrid(gridIndex);
             Console.WriteLine("\n" + playerName + "[" + signPlayer + "] : où voulez-vous placer votre jeton ?");
             string tokenSquareString = Console.ReadLine();
-            int tokenSquare = int.Parse(tokenSquareString);
+            int tokenSquare = int.Parse(tokenSquareString); // ATTENTION : PAS DE VÉRIF DE TYPAGE, CRASH SI PAS UN INTEGER
             switch(tokenSquare)
             {
                 case 1:
