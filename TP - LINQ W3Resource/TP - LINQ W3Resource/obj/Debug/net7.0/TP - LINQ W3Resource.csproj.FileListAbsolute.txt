@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/bin/Debug/net7.0/TP - LINQ W3Resource
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/bin/Debug/net7.0/TP - LINQ W3Resource.deps.json
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/bin/Debug/net7.0/TP - LINQ W3Resource.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/bin/Debug/net7.0/TP - LINQ W3Resource.dll
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/bin/Debug/net7.0/TP - LINQ W3Resource.pdb
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.dll
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/refint/TP - LINQ W3Resource.dll
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.pdb
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/TP - LINQ W3Resource.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - LINQ W3Resource/TP - LINQ W3Resource/obj/Debug/net7.0/ref/TP - LINQ W3Resource.dll

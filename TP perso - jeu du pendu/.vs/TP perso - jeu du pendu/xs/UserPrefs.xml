@@ -1,28 +1,25 @@
 ﻿<Properties StartupConfiguration="{9BB05C69-2901-41F8-8987-1E0FFBA96338}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP perso - jeu du pendu/Program.cs">
     <Files>
-      <File FileName="TP perso - jeu du pendu/Program.cs" Line="311" Column="2" />
+      <File FileName="TP perso - jeu du pendu/Program.cs" Line="304" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP perso - jeu du pendu" expanded="True">
-            <Node name="TP perso - jeu du pendu">
+            <Node name="TP perso - jeu du pendu" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TP_220perso_220-_220jeu_220du_220pendu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

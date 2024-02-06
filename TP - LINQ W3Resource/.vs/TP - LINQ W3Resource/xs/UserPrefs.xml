@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6326BF7A-7B02-4CDF-9B29-BB31D235B888}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP - LINQ W3Resource/Program.cs">
+    <Files>
+      <File FileName="TP - LINQ W3Resource/Program.cs" Line="73" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP - LINQ W3Resource" expanded="True">
+            <Node name="TP - LINQ W3Resource">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>lstElements</Value>
+          <Value>randomValue</Value>
+          <Value>squareCount</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP_220-_220LINQ_220W3Resource PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
