@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{6103309E-3DBB-4BAF-8599-1AA5040B7E6B}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TP_220-_220LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP - LINQ/Program.cs">
     <Files>
-      <File FileName="TP - LINQ/Program.cs" Line="15" Column="1" />
+      <File FileName="TP - LINQ/Program.cs" Line="27" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,17 +16,10 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>lstElements</Value>
-          <Value>randomValue</Value>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

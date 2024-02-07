@@ -224,7 +224,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             char[] hiddenWord = CreateHiddenWord(wordArray);
             bool playing = false;
 
-
             while (!Win(wordArray, hiddenWord))
             {
                 PlayingRound(wordArray, hiddenWord);
@@ -270,6 +269,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 if (i == 0)
                 {
                     result[0] = wordArray[0];
+                } else if (wordArray[i] == '-' || wordArray[i] == ' ')
+                {
+                    result[i] = wordArray[i];
                 } else
                 {
                     result[i] = '.';
@@ -303,9 +305,23 @@ namespace MyApp // Note: actual namespace depends on the project name.
             }
         }
 
-        public static bool Win(char[] word, char[] wordHidden)
+        public static bool Win(char[] wordArray, char[] wordHidden)
         {
-            return word == wordHidden;
+            int lettersAccurate = 0;
+            for (int i = 0; i < wordArray.Count(); i++)
+            {
+                if (wordArray[i] == wordHidden[i])
+                {
+                    lettersAccurate++;
+                }
+            }
+            if (lettersAccurate == wordArray.Count())
+            {
+                return true;
+            } else
+            {
+                return false;
+            }
         }
     }
 }

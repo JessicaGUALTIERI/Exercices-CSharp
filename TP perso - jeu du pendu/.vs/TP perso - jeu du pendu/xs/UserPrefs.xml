@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{9BB05C69-2901-41F8-8987-1E0FFBA96338}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TP perso - jeu du pendu/Program.cs">
     <Files>
-      <File FileName="TP perso - jeu du pendu/Program.cs" Line="304" Column="10" />
+      <File FileName="TP perso - jeu du pendu/Program.cs" Line="275" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP perso - jeu du pendu" expanded="True">
-            <Node name="TP perso - jeu du pendu" expanded="True">
+          <Node name="TP perso - jeu du pendu">
+            <Node name="TP perso - jeu du pendu">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>lstElements</Value>
+          <Value>randomValue</Value>
+          <Value>squareCount</Value>
         </State>
       </Pad>
     </Pads>

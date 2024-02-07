@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/bin/Debug/net7.0/TP - 07022024
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/bin/Debug/net7.0/TP - 07022024.deps.json
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/bin/Debug/net7.0/TP - 07022024.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/bin/Debug/net7.0/TP - 07022024.dll
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/bin/Debug/net7.0/TP - 07022024.pdb
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.dll
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/refint/TP - 07022024.dll
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.pdb
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/TP - 07022024.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - 07022024/TP - 07022024/obj/Debug/net7.0/ref/TP - 07022024.dll
