@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TP - POO - 08022024/1.0.0": {
+        "runtime": {
+          "TP - POO - 08022024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP - POO - 08022024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

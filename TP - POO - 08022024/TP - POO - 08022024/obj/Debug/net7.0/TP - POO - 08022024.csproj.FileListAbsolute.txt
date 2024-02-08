@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/bin/Debug/net7.0/TP - POO - 08022024
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/bin/Debug/net7.0/TP - POO - 08022024.deps.json
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/bin/Debug/net7.0/TP - POO - 08022024.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/bin/Debug/net7.0/TP - POO - 08022024.dll
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/bin/Debug/net7.0/TP - POO - 08022024.pdb
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.dll
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/refint/TP - POO - 08022024.dll
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.pdb
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/TP - POO - 08022024.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP - POO - 08022024/TP - POO - 08022024/obj/Debug/net7.0/ref/TP - POO - 08022024.dll
