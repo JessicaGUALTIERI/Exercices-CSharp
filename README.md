@@ -1,6 +1,6 @@
 ![cover](https://github.com/JessicaGUALTIERI/Cours-TP-C-/blob/main/readme_img/README_cover.png)
 
-##✨ __ Description __  
+## ✨ __ Description __  
 Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer et aborder le langage C#.
 
 *First-code* : premières lignes de code en C#  
@@ -27,17 +27,17 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 *TP-machines-à-sous* : simulation d'un scénario de jeu d'argent avec un budget donné  
 
 
-##🚀 __Technologies utilisées__  
+## 🚀 __Technologies utilisées__  
 C#
 
 ![diviseur](https://github.com/JessicaGUALTIERI/Cours-TP-C-/blob/main/readme_img/README_diviseur.png)
 
-##🔥 __Apprentissages__  
+## 🔥 __Apprentissages__  
 * Algorithmie
 * Requêtes LINQ
 * Boucles et conditions
 * Fonctions
 * Programmation Orientée Objet
 
-##🏋️‍♀️ __À perfectionner/difficultés__  
+## 🏋️‍♀️ __À perfectionner/difficultés__  
 * Soin du code
