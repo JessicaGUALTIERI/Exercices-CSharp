@@ -1,6 +1,6 @@
 ![cover](https://github.com/JessicaGUALTIERI/Cours-TP-C-/blob/main/readme_img/README_cover.png)
 
-## ✨ __ Description __  
+## ✨ __Description__  
 Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer et aborder le langage C#.
 
 *First-code* : premières lignes de code en C#  
