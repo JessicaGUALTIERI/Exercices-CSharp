@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{FA755E12-3D12-49E6-B7DF-EB1460B0B21F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TP__calculatrice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TP__calculatrice.UnitTests FirstBuild="True" />
+</Properties>

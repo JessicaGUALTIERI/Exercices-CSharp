@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{CCD1A577-0E8D-4D66-80AE-60D3E4FE3951}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TP_220-_220POO_220-_22008022024 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP - POO - 08022024/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP - POO - 08022024/Weapon.cs">
     <Files>
-      <File FileName="TP - POO - 08022024/Program.cs" Line="28" Column="1" />
+      <File FileName="TP - POO - 08022024/Program.cs" Line="20" Column="46" />
+      <File FileName="TP - POO - 08022024/Character.cs" Line="27" Column="38" />
       <File FileName="TP - POO - 08022024/Armor.cs" Line="14" Column="30" />
-      <File FileName="TP - POO - 08022024/Weapon.cs" Line="8" Column="27" />
-      <File FileName="TP - POO - 08022024/Character.cs" Line="13" Column="35" />
+      <File FileName="TP - POO - 08022024/Weapon.cs" Line="40" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP - POO - 08022024" expanded="True">
-            <Node name="TP - POO - 08022024">
-              <Node name="Program.cs" selected="True" />
+            <Node name="TP - POO - 08022024" expanded="True">
+              <Node name="Weapon.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -27,8 +30,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

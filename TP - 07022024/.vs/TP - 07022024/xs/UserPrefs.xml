@@ -1,24 +1,18 @@
 ﻿<Properties StartupConfiguration="{D84A608B-5FEC-43C8-AABC-7EFD82DB1C00}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP - 07022024/Program.cs">
     <Files>
-      <File FileName="TP - 07022024/Program.cs" Line="48" Column="42" />
+      <File FileName="TP - 07022024/Program.cs" Line="151" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP - 07022024" expanded="True">
+          <Node name="TP - 07022024">
             <Node name="TP - 07022024">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>motDePasse</Value>
-          <Value>lettresMotDePasse</Value>
         </State>
       </Pad>
     </Pads>
@@ -26,6 +20,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TP_220-_22007022024 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
 </Properties>

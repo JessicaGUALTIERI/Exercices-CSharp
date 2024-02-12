@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/bin/Debug/net7.0/TP_calculatrice
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/bin/Debug/net7.0/TP_calculatrice.deps.json
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/bin/Debug/net7.0/TP_calculatrice.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/bin/Debug/net7.0/TP_calculatrice.dll
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/bin/Debug/net7.0/TP_calculatrice.pdb
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.dll
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/refint/TP_calculatrice.dll
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.pdb
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/TP_calculatrice.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP_calculatrice/TP_calculatrice/obj/Debug/net7.0/ref/TP_calculatrice.dll
