@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B0DCA4ED-354B-4CFB-959C-DB13F28F16B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Dates.UnitTests/DatesTests.cs">
+    <Files>
+      <File FileName="TP_Dates/Program.cs" Line="5" Column="25" />
+      <File FileName="TP_Dates/Dates.cs" Line="16" Column="25" />
+      <File FileName="TP_Dates.UnitTests/UnitTest1.cs" Line="35" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP_Dates" expanded="True">
+            <Node name="TP_Dates.UnitTests">
+              <Node name="DatesTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP__Dates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

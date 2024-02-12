@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/bin/Debug/net7.0/TP_Dates
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/bin/Debug/net7.0/TP_Dates.deps.json
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/bin/Debug/net7.0/TP_Dates.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/bin/Debug/net7.0/TP_Dates.dll
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/bin/Debug/net7.0/TP_Dates.pdb
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.dll
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/refint/TP_Dates.dll
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.pdb
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/ref/TP_Dates.dll
