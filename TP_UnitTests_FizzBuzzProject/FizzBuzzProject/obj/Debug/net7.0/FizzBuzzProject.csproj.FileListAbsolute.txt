@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/bin/Debug/net7.0/FizzBuzzProject
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/bin/Debug/net7.0/FizzBuzzProject.deps.json
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/bin/Debug/net7.0/FizzBuzzProject.runtimeconfig.json
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/bin/Debug/net7.0/FizzBuzzProject.dll
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/bin/Debug/net7.0/FizzBuzzProject.pdb
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.dll
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/refint/FizzBuzzProject.dll
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.pdb
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/FizzBuzzProject.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/FizzBuzzProject/FizzBuzzProject/obj/Debug/net7.0/ref/FizzBuzzProject.dll

@@ -1,5 +1,33 @@
 ﻿<Properties StartupConfiguration="{FA755E12-3D12-49E6-B7DF-EB1460B0B21F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_calculatrice/Calculatrice.cs">
+    <Files>
+      <File FileName="TP_calculatrice/Program.cs" Line="14" Column="2" />
+      <File FileName="TP_calculatrice/Calculatrice.cs" Line="47" Column="2" />
+      <File FileName="TP_calculatrice.UnitTests/UnitTest1.cs" Line="88" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP_calculatrice">
+            <Node name="TP_calculatrice">
+              <Node name="Calculatrice.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TP__calculatrice PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.TP__calculatrice.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
