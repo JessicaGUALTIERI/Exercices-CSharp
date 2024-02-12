@@ -34,6 +34,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
+* TP_UnitTests_FizzBuzzProject : écriture des tests unitaires dans le cadre du FizzBuzz Challenge
 * TP - débogage : introduction au débogage sur Visual Studio  
 
 ## 🚀 __Technologies utilisées__  
