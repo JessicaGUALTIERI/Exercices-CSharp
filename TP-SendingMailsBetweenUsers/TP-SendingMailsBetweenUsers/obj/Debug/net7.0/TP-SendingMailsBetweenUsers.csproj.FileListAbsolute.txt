@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/bin/Debug/net7.0/TP-SendingMailsBetweenUsers
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/bin/Debug/net7.0/TP-SendingMailsBetweenUsers.deps.json
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/bin/Debug/net7.0/TP-SendingMailsBetweenUsers.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/bin/Debug/net7.0/TP-SendingMailsBetweenUsers.dll
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/bin/Debug/net7.0/TP-SendingMailsBetweenUsers.pdb
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.dll
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/refint/TP-SendingMailsBetweenUsers.dll
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.pdb
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/TP-SendingMailsBetweenUsers.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-SendingMailsBetweenUsers/TP-SendingMailsBetweenUsers/obj/Debug/net7.0/ref/TP-SendingMailsBetweenUsers.dll

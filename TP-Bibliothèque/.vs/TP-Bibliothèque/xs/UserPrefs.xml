@@ -1,4 +1,32 @@
 ﻿<Properties StartupConfiguration="{ADAE9084-1290-45C5-9D31-1F4A312A9E2A}|Default">
-  <MonoDevelop.Ide.ItemProperties.TP-Bibliothèque FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TP-Bibliothèque PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Bibliothèque/DataBase.cs">
+    <Files>
+      <File FileName="TP-Bibliothèque/Program.cs" Line="20" Column="36" />
+      <File FileName="TP-Bibliothèque/Livres.cs" Line="4" Column="19" />
+      <File FileName="TP-Bibliothèque/Users.cs" Line="8" Column="19" />
+      <File FileName="TP-Bibliothèque/DataBase.cs" Line="6" Column="19" />
+      <File FileName="TP-Bibliothèque/Genre.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Bibliothèque" expanded="True">
+            <Node name="TP-Bibliothèque">
+              <Node name="DataBase.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

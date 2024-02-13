@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{52B67773-4B87-4191-9FDA-5381A6F94E06}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-SendingMailsBetweenUsers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-SendingMailsBetweenUsers/User.cs">
+    <Files>
+      <File FileName="TP-SendingMailsBetweenUsers/Program.cs" Line="10" Column="30" />
+      <File FileName="TP-SendingMailsBetweenUsers/User.cs" Line="26" Column="47" />
+      <File FileName="TP-SendingMailsBetweenUsers/Mail.cs" Line="6" Column="1" />
+      <File FileName="TP-SendingMailsBetweenUsers/Attachment.cs" Line="4" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-SendingMailsBetweenUsers" expanded="True">
+            <Node name="TP-SendingMailsBetweenUsers">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

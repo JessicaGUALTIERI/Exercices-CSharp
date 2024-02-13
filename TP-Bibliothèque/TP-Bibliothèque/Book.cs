@@ -1,19 +1,19 @@
 ﻿using System;
 namespace TP_Bibliothèque
 {
-	public class Books
+	public class Book
 	{
-        public string title { get; set; }
-        public int pages { get; set; }
-        public string author { get; set; }
-        public Genre genre { get; set; }
+        public string Title { get; set; }
+        public int Pages { get; set; }
+        public string Author { get; set; }
+        public Genre Genre { get; set; }
 
-        public Books(string initTitle, int initPages, string initAuthor, Genre initGenre)
+        public Book(string initTitle, int initPages, string initAuthor, Genre initGenre)
         {
-            title = initTitle;
-            pages = initPages;
-            author = initAuthor;
-            genre = initGenre;
+            Title = initTitle;
+            Pages = initPages;
+            Author = initAuthor;
+            Genre = initGenre;
         }
     }
 }

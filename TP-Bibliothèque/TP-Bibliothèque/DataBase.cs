@@ -3,9 +3,9 @@ namespace TP_Bibliothèque
 {
 	public class DataBase
 	{
-		static List<Books> books = new List<Books>();
+		static List<Book> books = new List<Book>();
 
-		public static void Initialize(Books book)
+		public static void Initialize(Book book)
 		{
 			books.Add(book);
 		}
@@ -13,18 +13,18 @@ namespace TP_Bibliothèque
 		public static void DisplayBooksTitle()
 		{
 			Console.WriteLine("All books' titles are :");
-			foreach (Books book in books)
+			foreach (Book book in books)
 			{
-				Console.WriteLine("\t" + book.title);
+				Console.WriteLine("\t" + book.Title);
 			}
 		}
 
         public static void DisplayBooksAuthor()
         {
             Console.WriteLine("All books' authors are :");
-            foreach (Books book in books)
+            foreach (Book book in books)
             {
-                Console.WriteLine("\t" + book.author);
+                Console.WriteLine("\t" + book.Author);
             }
         }
 
@@ -40,11 +40,11 @@ namespace TP_Bibliothèque
 		public static void DisplayBooksByGenre(Genre genre)
 		{
 			Console.WriteLine("Books from the genre " + genre);
-            foreach (Books book in books)
+            foreach (Book book in books)
             {
-				if (book.genre == genre)
+				if (book.Genre == genre)
 				{
-                    Console.WriteLine("\t\"" + book.title + "\", by " + book.author + " (" + book.pages + " p.) - " + book.genre);
+                    Console.WriteLine("\t\"" + book.Title + "\", by " + book.Author);
                 }
             }
         }
