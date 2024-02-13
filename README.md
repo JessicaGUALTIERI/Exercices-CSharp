@@ -31,6 +31,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 
 #### POO :  
 * TP - POO - 08022024 : exercice d'introduction à la Programmation Orientée Objet avec réalisation d'un jeu RPG  
+* TP-Bibliothèque : usage d'une énumération et de propriétés static
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  

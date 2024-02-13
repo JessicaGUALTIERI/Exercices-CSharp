@@ -1,0 +1,14 @@
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/bin/Debug/net7.0/TP-Bibliothèque
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/bin/Debug/net7.0/TP-Bibliothèque.deps.json
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/bin/Debug/net7.0/TP-Bibliothèque.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/bin/Debug/net7.0/TP-Bibliothèque.dll
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/bin/Debug/net7.0/TP-Bibliothèque.pdb
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.dll
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/refint/TP-Bibliothèque.dll
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.pdb
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/TP-Bibliothèque.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Bibliothèque/TP-Bibliothèque/obj/Debug/net7.0/ref/TP-Bibliothèque.dll
