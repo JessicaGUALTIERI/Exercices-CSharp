@@ -32,6 +32,7 @@ namespace TP_SendingMailsBetweenUsers
             Console.WriteLine("\nEMAIL RECEIVED");
             Console.WriteLine("From : " + Mail.SenderAdress);
             Console.WriteLine("To : " + Mail.RecipientAdress);
+            Console.WriteLine("Date : " + Mail.Date);
             Console.WriteLine("Object : " + Mail.Object);
             Console.WriteLine(Mail.Content);
         }

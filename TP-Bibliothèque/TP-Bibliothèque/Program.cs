@@ -12,13 +12,14 @@ class Program
         Book book6 = new Book("Loving you", 298, "Anabel Morty", Genre.Fiction);
         Book book7 = new Book("Wish we could turn back time", 219, "Marleyne Duster", Genre.Fiction);
 
-        DataBase.Initialize(book1);
-        DataBase.Initialize(book2);
-        DataBase.Initialize(book3);
-        DataBase.Initialize(book4);
-        DataBase.Initialize(book5);
-        DataBase.Initialize(book6);
-        DataBase.Initialize(book7);
+        DataBase.Initialize();
+        DataBase.AddBookToDataBase(book1);
+        DataBase.AddBookToDataBase(book2);
+        DataBase.AddBookToDataBase(book3);
+        DataBase.AddBookToDataBase(book4);
+        DataBase.AddBookToDataBase(book5);
+        DataBase.AddBookToDataBase(book6);
+        DataBase.AddBookToDataBase(book7);
         DataBase.DisplayBooksTitle();
         DataBase.DisplayBooksAuthor();
         DataBase.DisplayBooksGenre();

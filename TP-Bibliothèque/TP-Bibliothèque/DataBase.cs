@@ -3,9 +3,14 @@ namespace TP_Bibliothèque
 {
 	public class DataBase
 	{
-		static List<Book> books = new List<Book>();
+		static List<Book> books;
 
-		public static void Initialize(Book book)
+		public static void Initialize()
+		{
+			books = new List<Book>();
+		}
+
+		public static void AddBookToDataBase(Book book)
 		{
 			books.Add(book);
 		}

@@ -8,8 +8,6 @@ namespace TP_SendingMailsBetweenUsers
 		public static string Object { get; set; }
 		public static string Content { get; set; }
 		public static DateTime Date { get; set; }
-
-
 	}
 }
 
