@@ -32,7 +32,8 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 #### POO :  
 * TP - POO - 08022024 : exercice d'introduction à la Programmation Orientée Objet avec réalisation d'un jeu RPG  
 * TP-Bibliothèque : usage d'une énumération et de propriétés static
-* TP-SendingMailsBetweenUsers : exercice d'envoi et de lecture de mails entre utilisateurs
+* TP-SendingMailsBetweenUsers : exercice d'envoi et de lecture de mails entre utilisateurs  
+* TP-FootballTeam : exercice de manipulation d'objets (création d'un club de foot, ajout de joueurs dans ce club, gestion du statut des joueurs (sélectionné, remplacé, blessé, pénalisé par des cartons), gestion des cartons, gestion des transferts de joueurs avec affichage de l'historique des clubs, affichage des compositions des clubs selon différents critères)
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
