@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.sourcelink.json
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/bin/Debug/net8.0/TP-POO-Jeu-du-serpent
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/bin/Debug/net8.0/TP-POO-Jeu-du-serpent.deps.json
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/bin/Debug/net8.0/TP-POO-Jeu-du-serpent.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/bin/Debug/net8.0/TP-POO-Jeu-du-serpent.dll
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/bin/Debug/net8.0/TP-POO-Jeu-du-serpent.pdb
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.dll
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/refint/TP-POO-Jeu-du-serpent.dll
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.pdb
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/TP-POO-Jeu-du-serpent.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/obj/Debug/net8.0/ref/TP-POO-Jeu-du-serpent.dll
