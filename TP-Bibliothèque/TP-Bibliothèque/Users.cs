@@ -24,4 +24,3 @@ namespace TP_Bibliothèque
 		}
 	}
 }
-
