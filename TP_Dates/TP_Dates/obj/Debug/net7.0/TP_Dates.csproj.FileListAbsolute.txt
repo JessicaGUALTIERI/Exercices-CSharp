@@ -12,3 +12,4 @@
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.pdb
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.genruntimeconfig.cache
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/ref/TP_Dates.dll
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates/obj/Debug/net7.0/TP_Dates.sourcelink.json

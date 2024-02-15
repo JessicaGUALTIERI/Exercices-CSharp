@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "geYu4Ueug5Ksr54ZGvjIsflTOTzj/U2011XO2NUd6hLKvrrGeI0ogn3qsOznEwfac+qPyvX5hO+lp8njpT35Rw==",
+  "dgSpecHash": "uZQGZN+TsOva6Y+W4yxFf8aYTJt50EOKEl/x4pt9Ae+V87bC5tTp3cJRJlfB56+ZcBUFFFbvQHjYEUzPUXfUcQ==",
   "success": true,
   "projectFilePath": "/Users/gualtierijessica/Projects/TP_Dates/TP_Dates.UnitTests/TP_Dates.UnitTests.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,9 @@
     "/Users/gualtierijessica/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
     "/Users/gualtierijessica/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/gualtierijessica/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
-    "/Users/gualtierijessica/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+    "/Users/gualtierijessica/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

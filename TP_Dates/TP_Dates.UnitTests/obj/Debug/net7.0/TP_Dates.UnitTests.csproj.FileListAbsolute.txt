@@ -106,3 +106,4 @@
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates.UnitTests/obj/Debug/net7.0/TP_Dates.UnitTests.pdb
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates.UnitTests/obj/Debug/net7.0/TP_Dates.UnitTests.genruntimeconfig.cache
 /Users/gualtierijessica/Projects/TP_Dates/TP_Dates.UnitTests/obj/Debug/net7.0/ref/TP_Dates.UnitTests.dll
+/Users/gualtierijessica/Projects/TP_Dates/TP_Dates.UnitTests/obj/Debug/net7.0/TP_Dates.UnitTests.sourcelink.json
