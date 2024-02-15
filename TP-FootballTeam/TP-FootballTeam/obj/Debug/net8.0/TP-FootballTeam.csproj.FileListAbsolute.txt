@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/bin/Debug/net8.0/TP-FootballTeam
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/bin/Debug/net8.0/TP-FootballTeam.deps.json
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/bin/Debug/net8.0/TP-FootballTeam.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/bin/Debug/net8.0/TP-FootballTeam.dll
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/bin/Debug/net8.0/TP-FootballTeam.pdb
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.sourcelink.json
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.dll
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/refint/TP-FootballTeam.dll
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.pdb
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/TP-FootballTeam.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-FootballTeam/TP-FootballTeam/obj/Debug/net8.0/ref/TP-FootballTeam.dll

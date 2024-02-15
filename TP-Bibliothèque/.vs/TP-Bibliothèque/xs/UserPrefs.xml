@@ -4,18 +4,16 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-Bibliothèque/Program.cs">
     <Files>
-      <File FileName="TP-Bibliothèque/Program.cs" Line="27" Column="79" />
-      <File FileName="TP-Bibliothèque/Users.cs" Line="7" Column="40" />
-      <File FileName="TP-Bibliothèque/DataBase.cs" Line="10" Column="29" />
+      <File FileName="TP-Bibliothèque/Program.cs" Line="22" Column="43" />
+      <File FileName="TP-Bibliothèque/Users.cs" Line="13" Column="29" />
+      <File FileName="TP-Bibliothèque/DataBase.cs" Line="8" Column="33" />
       <File FileName="TP-Bibliothèque/Genre.cs" Line="11" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-Bibliothèque" expanded="True">
-            <Node name="TP-Bibliothèque" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="TP-Bibliothèque">
+            <Node name="TP-Bibliothèque" expanded="True" />
           </Node>
         </State>
       </Pad>
