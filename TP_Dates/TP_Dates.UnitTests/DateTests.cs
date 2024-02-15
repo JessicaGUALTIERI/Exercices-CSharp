@@ -3,7 +3,7 @@
 [TestClass]
 public class UnitTest1
 {
-    Dates dateDuJour = new Dates();
+    Date dateTested = new Date();
 
     [TestMethod]
     [DataRow("12-02-2024")]
@@ -26,8 +26,8 @@ public class UnitTest1
     [DataRow("122918-0212212-20214")]
     public void NumericsOnlyBetweenHyphens(string date)
     {
-        dateDuJour.AffectDatesParts(date);
-        foreach (string number in dateDuJour.DateArray)
+        dateTested.SplitGivenDate(date);
+        foreach (string number in dateTested.DateArray)
         {
             int i = 0;
             bool result = int.TryParse(number, out i);
@@ -40,9 +40,9 @@ public class UnitTest1
     [DataRow("1122-12-202124")]
     public void MonthIsCorrect(string date)
     {
-        dateDuJour.AffectDatesParts(date);
-        int moisATester = dateDuJour.Mois;
-        bool result = moisATester > 0 && moisATester < 13;
+        dateTested.SplitGivenDate(date);
+        int monthTested = dateTested.Month;
+        bool result = monthTested > 0 && monthTested < 13;
         Assert.IsTrue(result);
     }
 
@@ -52,9 +52,9 @@ public class UnitTest1
     [DataRow("28-02-2000")]
     public void YearIsCorrect(string date)
     {
-        dateDuJour.AffectDatesParts(date);
-        int anneeATester = dateDuJour.Annee;
-        bool result = anneeATester > 1999 && anneeATester < 2025;
+        dateTested.SplitGivenDate(date);
+        int yearTested = dateTested.Year;
+        bool result = yearTested > 1999 && yearTested < 2025;
         Assert.IsTrue(result);
     }
 
@@ -64,11 +64,11 @@ public class UnitTest1
     [DataRow("28-02-202124")]
     public void DayIsCorrect(string date)
     {
-        dateDuJour.AffectDatesParts(date);
-        int jourATester = dateDuJour.Jour;
-        int annee = dateDuJour.Annee;
+        dateTested.SplitGivenDate(date);
+        int dayTested = dateTested.Day;
+        int year = dateTested.Year;
         bool result = false;
-        switch (dateDuJour.Mois)
+        switch (dateTested.Month)
         {
             case 1:
             case 3:
@@ -77,22 +77,22 @@ public class UnitTest1
             case 8:
             case 10:
             case 12:
-                result = jourATester > 0 && jourATester < 32;
+                result = dayTested > 0 && dayTested < 32;
                 break;
             case 4:
             case 6:
             case 9:
             case 11:
-                result = jourATester > 0 && jourATester < 31;
+                result = dayTested > 0 && dayTested < 31;
                 break;
             case 2:
-                if (annee % 4 == 0 && annee % 100 != 0 || annee % 400 == 0)
+                if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0)
                 {
-                    result = jourATester > 0 && jourATester < 30;
+                    result = dayTested > 0 && dayTested < 30;
                     break;
                 } else
                 {
-                    result = jourATester > 0 && jourATester < 29;
+                    result = dayTested > 0 && dayTested < 29;
                     break;
                 }
                 

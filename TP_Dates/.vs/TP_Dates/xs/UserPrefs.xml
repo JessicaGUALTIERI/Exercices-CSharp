@@ -3,18 +3,18 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Dates.UnitTests/DatesTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Dates.UnitTests/DateTests.cs">
     <Files>
-      <File FileName="TP_Dates/Program.cs" Line="9" Column="34" />
-      <File FileName="TP_Dates/Dates.cs" Line="16" Column="42" />
-      <File FileName="TP_Dates.UnitTests/DatesTests.cs" Line="115" Column="2" />
+      <File FileName="TP_Dates/Program.cs" Line="10" Column="1" />
+      <File FileName="TP_Dates/Dates.cs" Line="11" Column="29" />
+      <File FileName="TP_Dates.UnitTests/DatesTests.cs" Line="18" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP_Dates">
             <Node name="TP_Dates.UnitTests">
-              <Node name="DatesTests.cs" selected="True" />
+              <Node name="DateTests.cs" selected="True" />
             </Node>
           </Node>
         </State>
