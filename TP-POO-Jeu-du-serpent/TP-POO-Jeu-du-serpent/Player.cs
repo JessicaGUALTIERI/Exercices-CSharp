@@ -15,7 +15,7 @@ namespace TP_POO_Jeu_du_serpent
             Space = 1;
 		}
 
-		public void PlayingRound()
+        public void PlayingRound()
 		{
 			int dice = ThrowDice();
             Console.Write(Name + " [" + Space + "] throws dice : " + dice);

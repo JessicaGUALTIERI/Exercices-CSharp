@@ -31,6 +31,13 @@ namespace TP_POO_Jeu_du_serpent
             player1.Space = 1;
             player2.Space = 1;
         }
+
+		public static void DisplayRound()
+		{
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("----Round " + Round + "----");
+            Console.ResetColor();
+        }
     }
 }
 
