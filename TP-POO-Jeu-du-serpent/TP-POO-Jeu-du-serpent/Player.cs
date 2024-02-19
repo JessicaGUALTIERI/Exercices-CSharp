@@ -10,9 +10,9 @@ namespace TP_POO_Jeu_du_serpent
 
 		public Player()
 		{
+            Space = 1;
             Console.WriteLine("What's the player's name ?");
             Name = Console.ReadLine();
-            Space = 1;
 		}
 
         public void PlayingRound()

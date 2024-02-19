@@ -1,24 +1,27 @@
 ﻿<Properties StartupConfiguration="{4EBC7B8F-3FD9-40AC-A1CF-AB25D08585DC}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TP-POO-Jeu-du-serpents.UnitTests FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TP-POO-Jeu-du-serpent PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-POO-Jeu-du-serpent/Player.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-POO-Jeu-du-serpents.UnitTests/UnitTest1.cs">
     <Files>
-      <File FileName="TP-POO-Jeu-du-serpent/Program.cs" Line="21" Column="40" />
-      <File FileName="TP-POO-Jeu-du-serpent/Player.cs" Line="87" Column="7" />
-      <File FileName="TP-POO-Jeu-du-serpent/Game.cs" Line="37" Column="1" />
-      <File FileName="TP-POO-Jeu-du-serpents.UnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="TP-POO-Jeu-du-serpent/Program.cs" Line="11" Column="1" />
+      <File FileName="TP-POO-Jeu-du-serpent/Player.cs" Line="13" Column="23" />
+      <File FileName="TP-POO-Jeu-du-serpent/Game.cs" Line="1" Column="1" />
+      <File FileName="TP-POO-Jeu-du-serpents.UnitTests/UnitTest1.cs" Line="17" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-POO-Jeu-du-serpent">
-            <Node name="TP-POO-Jeu-du-serpent">
-              <Node name="Player.cs" selected="True" />
+          <Node name="TP-POO-Jeu-du-serpent" expanded="True">
+            <Node name="TP-POO-Jeu-du-serpents.UnitTests">
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
-            <Node name="TP-POO-Jeu-du-serpents.UnitTests" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TP-POO-Jeu-du-serpent" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -27,7 +30,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-POO-Jeu-du-serpent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

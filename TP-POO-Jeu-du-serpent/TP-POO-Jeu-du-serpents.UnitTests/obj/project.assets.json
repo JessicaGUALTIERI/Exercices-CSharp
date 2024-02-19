@@ -393,6 +393,16 @@
             "related": ".xml"
           }
         }
+      },
+      "TP-POO-Jeu-du-serpent/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TP-POO-Jeu-du-serpent.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP-POO-Jeu-du-serpent.dll": {}
+        }
       }
     }
   },
@@ -1058,6 +1068,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "TP-POO-Jeu-du-serpent/1.0.0": {
+      "type": "project",
+      "path": "../TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent.csproj",
+      "msbuildProject": "../TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1065,6 +1080,7 @@
       "MSTest.TestAdapter >= 3.0.4",
       "MSTest.TestFramework >= 3.0.4",
       "Microsoft.NET.Test.Sdk >= 17.6.0",
+      "TP-POO-Jeu-du-serpent >= 1.0.0",
       "coverlet.collector >= 6.0.0"
     ]
   },
@@ -1092,7 +1108,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent.csproj": {
+              "projectPath": "/Users/gualtierijessica/Projects/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent/TP-POO-Jeu-du-serpent.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
