@@ -16,6 +16,7 @@ class Program
         Content GOTS1E9 = new Episode("Baelor", GOT, 56, 1, 9);
         Content GOTS1E10 = new Episode("Fire And Blood", GOT, 52, 1, 10);
 
+        Movie.Initialization();
         Content Inception = new Movie("Inception", 148, "Nolan");
         Content ShutterIsland = new Movie("Shutter Island", 130, "Scorsese");
         Content TheWolfOfWallStreet = new Movie("The Wolf Of Wall Street", 179, "Scorsese");
@@ -25,7 +26,7 @@ class Program
         User user2 = new User("arandommailadress2@gmail.com", "user93000");
 
         GOT.DisplayAllEpisodes();
-        Inception.DisplayNumberOfViews();
+        Movie.DisplayAllMovies();
 
         user1.DisplayWatchtime();
         user2.DisplayWatchtime();
@@ -34,6 +35,7 @@ class Program
         user1.Watch(GOTS1E2);
         user1.Watch(GOTS1E3);
         user1.Watch(Inception);
+        user1.Watch(TheKingsSpeech);
 
         user2.Watch(GOTS1E1);
         user2.Watch(GOTS1E2);
@@ -47,7 +49,7 @@ class Program
         user2.Watch(GOTS1E10);
 
         GOT.DisplayAllEpisodes();
-        Inception.DisplayNumberOfViews();
+        Movie.DisplayAllMovies();
 
         user1.DisplayWatchtime();
         user2.DisplayWatchtime();

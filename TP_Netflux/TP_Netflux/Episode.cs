@@ -16,19 +16,14 @@ namespace TP_Netflux
             NumberOfTheSeason = numberOfTheSeason;
             NumberOfTheEpisode = numberOfTheEpisode;
             NumberOfViews = 0;
-            AddToTVShow(show);
-        }
-
-        public override void DisplayNumberOfViews()
-        {
-            Console.Write("The episode of " + ShowName + " ");
-            base.DisplayNumberOfViews();
-        }
-
-        public void AddToTVShow(TVShow show)
-        {
             show.Episodes.Add(this);
         }
+
+        //public override void DisplayNumberOfViews()
+        //{
+        //    Console.Write("The episode of " + ShowName + " ");
+        //    base.DisplayNumberOfViews();
+        //}
     }
 }
 
