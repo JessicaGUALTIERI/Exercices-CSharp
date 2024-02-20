@@ -3,21 +3,21 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TP__Netflux PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Netflux/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Netflux/Episode.cs">
     <Files>
       <File FileName="TP_Netflux/Program.cs" Line="38" Column="37" />
-      <File FileName="TP_Netflux/Episode.cs" Line="26" Column="12" />
-      <File FileName="TP_Netflux/Content.cs" Line="12" Column="39" />
-      <File FileName="TP_Netflux/Movie.cs" Line="28" Column="101" />
-      <File FileName="TP_Netflux/TVShow.cs" Line="21" Column="96" />
+      <File FileName="TP_Netflux/Episode.cs" Line="24" Column="54" />
+      <File FileName="TP_Netflux/Content.cs" Line="13" Column="6" />
+      <File FileName="TP_Netflux/Movie.cs" Line="25" Column="65" />
+      <File FileName="TP_Netflux/TVShow.cs" />
       <File FileName="TP_Netflux/User.cs" Line="26" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP_Netflux">
-            <Node name="TP_Netflux">
-              <Node name="User.cs" selected="True" />
+          <Node name="TP_Netflux" expanded="True">
+            <Node name="TP_Netflux" expanded="True">
+              <Node name="Episode.cs" selected="True" />
             </Node>
           </Node>
         </State>

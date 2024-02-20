@@ -7,10 +7,10 @@ namespace TP_Netflux
 		public int DurationInMinutes { get; set; }
 		public int NumberOfViews { get; set; }
 
-		public virtual void DisplayNumberOfViews()
-		{
-			Console.WriteLine("\"" + Name + "\" has been watched " + NumberOfViews + " times.");
-		}
+		//public virtual void DisplayNumberOfViews()
+		//{
+		//	Console.WriteLine("\"" + Name + "\" has been watched " + NumberOfViews + " times.");
+		//}
 	}
 }
 

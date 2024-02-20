@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_Netflux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec2a64c11672d48f419259d12e2af43f017d1a17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+647d5ec1d529682b625d354198f8cfef8c3546d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_Netflux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_Netflux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
