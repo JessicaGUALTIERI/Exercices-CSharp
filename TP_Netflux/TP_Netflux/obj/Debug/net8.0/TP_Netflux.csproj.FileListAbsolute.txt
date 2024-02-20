@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/bin/Debug/net8.0/TP_Netflux
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/bin/Debug/net8.0/TP_Netflux.deps.json
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/bin/Debug/net8.0/TP_Netflux.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/bin/Debug/net8.0/TP_Netflux.dll
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/bin/Debug/net8.0/TP_Netflux.pdb
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.sourcelink.json
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.dll
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/refint/TP_Netflux.dll
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.pdb
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/TP_Netflux.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP_Netflux/TP_Netflux/obj/Debug/net8.0/ref/TP_Netflux.dll
