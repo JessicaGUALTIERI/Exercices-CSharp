@@ -34,7 +34,8 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP-Bibliothèque : usage d'une énumération et de propriétés static
 * TP-SendingMailsBetweenUsers : exercice d'envoi et de lecture de mails entre utilisateurs  
 * TP-FootballTeam : exercice de manipulation d'objets (création d'un club de foot, ajout de joueurs dans ce club, gestion du statut des joueurs (sélectionné, remplacé, blessé, pénalisé par des cartons), gestion des cartons, gestion des transferts de joueurs avec affichage de l'historique des clubs, affichage des compositions des clubs selon différents critères)  
-* TP-POO-Jeu-du-serpent : jeu du serpent recodé en POO
+* TP-POO-Jeu-du-serpent : jeu du serpent recodé en POO  
+* TP_Netflux : application des concepts de polymorphisme, d'héritage, de classes abstraites, d'override
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
