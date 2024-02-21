@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TP_Netflux
 {
-	public class Movie : Content
+	public class Movie : Content, ISelectable
 	{
 		public string NameOfTheDirector { get; set; }
         public static List<Movie> AllMovies { get; set; }
@@ -28,6 +28,10 @@ namespace TP_Netflux
                 Console.WriteLine("\t- " + movie.Name + "(watched " + movie.NumberOfViews + " times)");
             }
         }
+
+        public void Selected(User user)
+        {
+            user.Watch(this);
+        }
     }
 }
-

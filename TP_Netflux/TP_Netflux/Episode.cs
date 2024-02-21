@@ -6,7 +6,6 @@ namespace TP_Netflux
         public string ShowName { get; set; }
         public int NumberOfTheSeason { get; set; }
 		public int NumberOfTheEpisode { get; set; }
-		public bool IsANetfluxSerie { get; set; }
 
         public Episode(string name, TVShow show, int durationInMinutes, int numberOfTheSeason, int numberOfTheEpisode)
         {
@@ -18,12 +17,6 @@ namespace TP_Netflux
             NumberOfViews = 0;
             show.Episodes.Add(this);
         }
-
-        //public override void DisplayNumberOfViews()
-        //{
-        //    Console.Write("The episode of " + ShowName + " ");
-        //    base.DisplayNumberOfViews();
-        //}
     }
 }
 

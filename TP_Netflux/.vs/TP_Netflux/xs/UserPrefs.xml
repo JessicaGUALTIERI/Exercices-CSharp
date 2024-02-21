@@ -1,22 +1,19 @@
 ﻿<Properties StartupConfiguration="{4ED9C28E-50FA-4459-8611-8531693BFBB8}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TP__Netflux PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP_Netflux/Episode.cs">
     <Files>
-      <File FileName="TP_Netflux/Program.cs" Line="38" Column="37" />
-      <File FileName="TP_Netflux/Episode.cs" Line="24" Column="54" />
-      <File FileName="TP_Netflux/Content.cs" Line="13" Column="6" />
-      <File FileName="TP_Netflux/Movie.cs" Line="25" Column="65" />
-      <File FileName="TP_Netflux/TVShow.cs" />
-      <File FileName="TP_Netflux/User.cs" Line="26" Column="4" />
+      <File FileName="TP_Netflux/Program.cs" Line="10" Column="33" />
+      <File FileName="TP_Netflux/User.cs" Line="15" Column="27" />
+      <File FileName="TP_Netflux/Episode.cs" Line="12" Column="25" />
+      <File FileName="TP_Netflux/Content.cs" Line="8" Column="41" />
+      <File FileName="TP_Netflux/Movie.cs" Line="37" Column="2" />
+      <File FileName="TP_Netflux/TVShow.cs" Line="28" Column="49" />
+      <File FileName="TP_Netflux/ISelectable.cs" Line="7" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP_Netflux" expanded="True">
-            <Node name="TP_Netflux" expanded="True">
+          <Node name="TP_Netflux">
+            <Node name="TP_Netflux">
               <Node name="Episode.cs" selected="True" />
             </Node>
           </Node>
@@ -27,7 +24,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP__Netflux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
