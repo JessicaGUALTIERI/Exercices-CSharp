@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{ABE4F6D2-9FED-4E70-B534-497FA30382B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP__MethodeGenerique PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_MethodeGenerique/Program.cs">
+    <Files>
+      <File FileName="TP_MethodeGenerique/Program.cs" Line="28" Column="29" />
+      <File FileName="TP_MethodeGenerique/RandomElement.cs" Line="24" Column="4" />
+      <File FileName="TP_MethodeGenerique/PickFirstElement.cs" Line="10" Column="28" />
+      <File FileName="TP_MethodeGenerique/PickLastElement.cs" Line="21" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP_MethodeGenerique" expanded="True">
+            <Node name="TP_MethodeGenerique">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

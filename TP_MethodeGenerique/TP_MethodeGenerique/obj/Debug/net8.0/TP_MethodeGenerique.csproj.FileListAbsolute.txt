@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/bin/Debug/net8.0/TP_MethodeGenerique
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/bin/Debug/net8.0/TP_MethodeGenerique.deps.json
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/bin/Debug/net8.0/TP_MethodeGenerique.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/bin/Debug/net8.0/TP_MethodeGenerique.dll
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/bin/Debug/net8.0/TP_MethodeGenerique.pdb
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.sourcelink.json
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.dll
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/refint/TP_MethodeGenerique.dll
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.pdb
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/TP_MethodeGenerique.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP_MethodeGenerique/TP_MethodeGenerique/obj/Debug/net8.0/ref/TP_MethodeGenerique.dll
