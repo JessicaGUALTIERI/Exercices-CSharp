@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{62DCCE88-CD83-48E2-8835-2A67579D17F1}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TP-Roguelike PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Roguelike/Adventurer.cs">
+    <Files>
+      <File FileName="TP-Roguelike/Program.cs" Line="11" Column="1" />
+      <File FileName="TP-Roguelike/Adventurer.cs" Line="16" Column="4" />
+      <File FileName="TP-Roguelike/Monster.cs" Line="20" Column="1" />
+      <File FileName="TP-Roguelike/Dungeon.cs" Line="18" Column="28" />
+      <File FileName="TP-Roguelike/Room.cs" Line="11" Column="1" />
+      <File FileName="TP-Roguelike/ITriggerable.cs" Line="6" Column="56" />
+      <File FileName="TP-Roguelike/Encounter.cs" Line="6" Column="3" />
+      <File FileName="TP-Roguelike/Characteristics.cs" Line="4" Column="8" />
+      <File FileName="TP-Roguelike/Trap.cs" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Roguelike" expanded="True">
+            <Node name="TP-Roguelike" expanded="True">
+              <Node name="Adventurer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

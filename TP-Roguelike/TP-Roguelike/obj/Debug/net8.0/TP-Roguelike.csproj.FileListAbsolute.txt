@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/bin/Debug/net8.0/TP-Roguelike
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/bin/Debug/net8.0/TP-Roguelike.deps.json
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/bin/Debug/net8.0/TP-Roguelike.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/bin/Debug/net8.0/TP-Roguelike.dll
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/bin/Debug/net8.0/TP-Roguelike.pdb
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.sourcelink.json
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.dll
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/refint/TP-Roguelike.dll
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.pdb
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/TP-Roguelike.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Roguelike/TP-Roguelike/obj/Debug/net8.0/ref/TP-Roguelike.dll
