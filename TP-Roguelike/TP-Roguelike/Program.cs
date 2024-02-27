@@ -5,14 +5,14 @@ class Program
     static void Main(string[] args)
     {
         Adventurer hero = new Adventurer(new Characteristics(100, 2, 1));
-        int roomNumber = 1;
-        while (hero.Characteristics.HealthPoints > 0)
+        Dungeon.Initialize();
+        Console.WriteLine(Dungeon.NumberOfRooms);
+        while (Dungeon.EndOfDungeon(hero))
         {
             Room room = new Room();
-            Console.WriteLine("ROOM N°" + roomNumber);
+            Dungeon.DisplayRoomNumber();
             room.EncounterInRoom.Meet(hero);
-            roomNumber++;
-            Console.WriteLine();
+            Dungeon.RoomNumber++;
         }
     }
 }

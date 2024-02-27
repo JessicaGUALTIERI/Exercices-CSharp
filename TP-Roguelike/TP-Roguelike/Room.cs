@@ -3,7 +3,6 @@ namespace TP_Roguelike
 {
 	public class Room
 	{
-		public string Title { get; set; }
 		public Encounter EncounterInRoom { get; set; }
 
         public Room()

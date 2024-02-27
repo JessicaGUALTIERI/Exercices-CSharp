@@ -14,8 +14,13 @@ namespace TP_Roguelike
             if (character.HealthPoints < 100)
             {
                 Random random = new Random();
-                character.HealthPoints += random.Next(5, 11);
-                Console.WriteLine("Hero finds an item ! Result :\n\tHero : " + character.HealthPoints);
+                int addHP = random.Next(5, 11);
+                character.HealthPoints += addHP;
+                Console.Write("Hero finds an item ! Result :\n\tHero : " + character.HealthPoints + "(");
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.Write("+ " + addHP + " HP");
+                Console.ResetColor();
+                Console.WriteLine(")");
             } else
             {
                 Console.WriteLine("Hero finds an item but is already full HP : can't use it !");
