@@ -36,7 +36,8 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP-FootballTeam : exercice de manipulation d'objets (création d'un club de foot, ajout de joueurs dans ce club, gestion du statut des joueurs (sélectionné, remplacé, blessé, pénalisé par des cartons), gestion des cartons, gestion des transferts de joueurs avec affichage de l'historique des clubs, affichage des compositions des clubs selon différents critères)  
 * TP-POO-Jeu-du-serpent : jeu du serpent recodé en POO  
 * TP_Netflux : application des concepts de polymorphisme, d'héritage, de classes abstraites, d'override, d'interfaces  
-* TP_MethodeGenerique : application des concepts de généricité
+* TP_MethodeGenerique : application des concepts de généricité  
+* TP-Roguelike : jeu type roguelike avec polymorphismes, héritages, interfaces
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
