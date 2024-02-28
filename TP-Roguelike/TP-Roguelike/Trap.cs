@@ -7,7 +7,7 @@ namespace TP_Roguelike
         {
             RemoveHP remove = new RemoveHP();
             remove.Trigger(adventurer.Characteristics);
-            Console.WriteLine("Hero encouters a Trap ! Result : \n\tHero : " + adventurer.Characteristics.HealthPoints + "(- ");
+            Console.Write("Hero encouters a Trap ! Result : \n\tHero : " + adventurer.Characteristics.HealthPoints + "(- ");
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Write("10 HP");
             Console.ResetColor();

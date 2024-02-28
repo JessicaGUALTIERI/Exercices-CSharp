@@ -11,10 +11,10 @@ namespace TP_Roguelike
 
         public void Trigger(Characteristics character)
         {
-            if (character.HealthPoints < 100)
+            Random random = new Random();
+            int addHP = random.Next(5, 11);
+            if (character.HealthPoints < (100 - addHP))
             {
-                Random random = new Random();
-                int addHP = random.Next(5, 11);
                 character.HealthPoints += addHP;
                 Console.Write("Hero finds an item ! Result :\n\tHero : " + character.HealthPoints + "(");
                 Console.ForegroundColor = ConsoleColor.Green;

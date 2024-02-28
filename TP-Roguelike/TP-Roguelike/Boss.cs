@@ -1,11 +1,11 @@
 ﻿using System;
 namespace TP_Roguelike
 {
-	public class Monster : Encounter
+	public class Boss : Encounter
 	{
         public Characteristics Characteristics { set; get; }
 
-        public Monster(Characteristics initCharacteristics)
+        public Boss(Characteristics initCharacteristics)
         {
             Characteristics = initCharacteristics;
         }
@@ -13,7 +13,7 @@ namespace TP_Roguelike
         public override void Meet(Adventurer adventurer)
         {
             RemoveHP remove = new RemoveHP();
-            Console.WriteLine("Hero encounters a Monster ! Result : ");
+            Console.WriteLine("You're facing the boss ! Result : ");
             while (adventurer.Characteristics.HealthPoints > 0 && Characteristics.HealthPoints > 0)
             {
                 remove.Trigger(adventurer.Characteristics, Characteristics);
@@ -25,7 +25,7 @@ namespace TP_Roguelike
                 if (adventurer.Characteristics.HealthPoints > 0)
                 {
                     remove.Trigger(Characteristics, adventurer.Characteristics);
-                    Console.Write("\tMonster : " + Characteristics.HealthPoints + "(- ");
+                    Console.Write("\tBoss : " + Characteristics.HealthPoints + "(- ");
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(adventurer.Characteristics.Attack);
                     Console.ResetColor();
@@ -34,13 +34,11 @@ namespace TP_Roguelike
             }
             if (adventurer.Characteristics.HealthPoints > 0)
             {
-                Console.WriteLine("Good job, keep going !");
-            }
-            else
+                Console.WriteLine("Congratulations, you've defeated the Boss and completed the " + Dungeon.Title + "!");
+            } else
             {
-                Console.WriteLine("Nice try but the " + Dungeon.Title + " seems to be too dangerous for you...");
+                Console.WriteLine("You almost won ! But sadly, the " + Dungeon.Title + " seems to be too dangerous for you...");
             }
         }
     }
 }
-
