@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/bin/Debug/net8.0/TP-delegues
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/bin/Debug/net8.0/TP-delegues.deps.json
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/bin/Debug/net8.0/TP-delegues.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/bin/Debug/net8.0/TP-delegues.dll
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/bin/Debug/net8.0/TP-delegues.pdb
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.sourcelink.json
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.dll
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/refint/TP-delegues.dll
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.pdb
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/TP-delegues.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-delegues/TP-delegues/obj/Debug/net8.0/ref/TP-delegues.dll
