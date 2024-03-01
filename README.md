@@ -37,7 +37,8 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP-POO-Jeu-du-serpent : jeu du serpent recodé en POO  
 * TP_Netflux : application des concepts de polymorphisme, d'héritage, de classes abstraites, d'override, d'interfaces  
 * TP_MethodeGenerique : application des concepts de généricité  
-* TP-Roguelike : jeu type roguelike avec polymorphismes, héritages, interfaces
+* TP-Roguelike : jeu type roguelike avec polymorphismes, héritages, interfaces  
+* TP-delegues : premier usage des délégués et événements  
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
