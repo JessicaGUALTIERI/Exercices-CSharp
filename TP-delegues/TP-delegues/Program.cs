@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Calendar calendar = new Calendar(2024, Month.January, Day.Monday, 1);
+        Calendar calendar = new Calendar(2024, Month.January, Day.Sunday, 1);
         Alert bread = new Alert("Buy bread");
         Alert newspaper = new Alert("Take in the newspaper");
         Alert trash = new Alert("Take out the trash can");
@@ -17,6 +17,7 @@ class Program
 
         while (calendar.Year != 2025 || calendar.DayNumber != 2)
         {
+            calendar.DisplayDate();
             calendar.NextDay();
         }
     }

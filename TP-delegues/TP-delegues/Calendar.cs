@@ -7,6 +7,7 @@ namespace TP_delegues
 		public Month Month { get; set; }
 		public Day Day { get; set; }
 		public int DayNumber { get; set; }
+        const int DAYS_IN_MONTH = 31;
 
 		public event Action OnNewYear;
         public event Action OnNewMonth;
@@ -21,30 +22,29 @@ namespace TP_delegues
 			DayNumber = initDayNumber;
 		}
 
-		public void NextDay()
+        public void NextDay()
 		{
-            DisplayDate();
-            if (DayNumber < 31)
-			{
-				DayNumber++;
-            } else
-			{
-                DayNumber = 1;
-                if (OnNewMonth != null)
-                {
-                    OnNewMonth();
-                }
-                NextMonth();
-            }
             if (OnNewDay != null)
             {
                 OnNewDay();
+            }
+            if (DayNumber >= DAYS_IN_MONTH)
+			{
+                NextMonth();
+                DayNumber = 1;
+            } else
+			{
+                DayNumber++;
             }
             NextWeek();
         }
 
         public void NextMonth()
         {
+            if (OnNewMonth != null)
+            {
+                OnNewMonth();
+            }
             if (Month == Month.December)
             {
                 Month = Month.January;
@@ -58,22 +58,22 @@ namespace TP_delegues
 
         public void NextYear()
         {
-            Year++;
             if (OnNewYear != null)
             {
                 OnNewYear();
             }
+            Year++;
         }
 
         public void NextWeek()
         {
             if (Day == Day.Sunday)
             {
-                Day = Day.Monday;
                 if (OnNewWeek != null)
                 {
                     OnNewWeek();
                 }
+                Day = Day.Monday;
             }
             else
             {
