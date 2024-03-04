@@ -6,16 +6,16 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-delegues/Program.cs">
     <Files>
-      <File FileName="TP-delegues/Program.cs" Line="20" Column="36" />
-      <File FileName="TP-delegues/Calendar.cs" Line="39" Column="24" />
-      <File FileName="TP-delegues/Alert.cs" Line="10" Column="26" />
-      <File FileName="TP-delegues/Month.cs" />
-      <File FileName="TP-delegues/Day.cs" />
+      <File FileName="TP-delegues/Program.cs" Line="26" Column="2" />
+      <File FileName="TP-delegues/Calendar.cs" Line="75" Column="2" />
+      <File FileName="TP-delegues/Alert.cs" Line="18" Column="2" />
+      <File FileName="TP-delegues/DetailedAlert.cs" Line="19" Column="2" />
+      <File FileName="TP-delegues/EventOnThe10th.cs" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-delegues" expanded="True">
+          <Node name="TP-delegues">
             <Node name="TP-delegues">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -24,7 +24,7 @@
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>Roo</Value>
+          <Value>DetailedAlertArg</Value>
         </State>
       </Pad>
     </Pads>

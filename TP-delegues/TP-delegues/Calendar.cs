@@ -9,10 +9,10 @@ namespace TP_delegues
 		public int DayNumber { get; set; }
         const int DAYS_IN_MONTH = 31;
 
-		public event Action OnNewYear;
-        public event Action OnNewMonth;
-        public event Action OnNewWeek;
-        public event Action OnNewDay;
+		public event EventHandler<DetailedAlertArg> OnNewYear;
+        public event EventHandler<DetailedAlertArg> OnNewMonth;
+        public event EventHandler<DetailedAlertArg> OnNewWeek;
+        public event EventHandler<DetailedAlertArg> OnNewDay;
 
         public Calendar(int initYear, Month initMonth, Day initDay, int initDayNumber)
 		{
@@ -24,54 +24,40 @@ namespace TP_delegues
 
         public void NextDay()
 		{
+            DetailedAlertArg alert = new DetailedAlertArg(Year, Month, Day, DayNumber);
             if (OnNewDay != null)
             {
-                OnNewDay();
+                OnNewDay(this, alert);
             }
             if (DayNumber >= DAYS_IN_MONTH)
 			{
-                NextMonth();
+                if (OnNewMonth != null)
+                {
+                    OnNewMonth(this, alert);
+                }
+                if (Month == Month.December)
+                {
+                    Month = Month.January;
+                    if (OnNewYear != null)
+                    {
+                        OnNewYear(this, alert);
+                    }
+                    Year++;
+                }
+                else
+                {
+                    Month++;
+                }
                 DayNumber = 1;
             } else
 			{
                 DayNumber++;
             }
-            NextWeek();
-        }
-
-        public void NextMonth()
-        {
-            if (OnNewMonth != null)
-            {
-                OnNewMonth();
-            }
-            if (Month == Month.December)
-            {
-                Month = Month.January;
-                NextYear();
-            }
-            else
-            {
-                Month++;
-            }
-        }
-
-        public void NextYear()
-        {
-            if (OnNewYear != null)
-            {
-                OnNewYear();
-            }
-            Year++;
-        }
-
-        public void NextWeek()
-        {
             if (Day == Day.Sunday)
             {
                 if (OnNewWeek != null)
                 {
-                    OnNewWeek();
+                    OnNewWeek(this, alert);
                 }
                 Day = Day.Monday;
             }
@@ -87,4 +73,3 @@ namespace TP_delegues
         }
     }
 }
-

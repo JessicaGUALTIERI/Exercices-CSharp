@@ -10,10 +10,9 @@ namespace TP_delegues
 			Message = initMessage;
 		}
 
-		public void DisplayMessage()
+		public virtual void DisplayMessage(object sender, DetailedAlertArg alertArg)
 		{
 			Console.WriteLine("\t" + Message);
 		}
-	}
+    }
 }
-

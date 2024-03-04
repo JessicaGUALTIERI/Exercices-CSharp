@@ -9,11 +9,13 @@ class Program
         Alert newspaper = new Alert("Take in the newspaper");
         Alert trash = new Alert("Take out the trash can");
         Alert newCalendar = new Alert("Change to the new calendar");
+        EventOnThe10th bills = new EventOnThe10th("Pay the bills");
 
         calendar.OnNewDay += bread.DisplayMessage;
         calendar.OnNewWeek += newspaper.DisplayMessage;
         calendar.OnNewMonth += trash.DisplayMessage;
         calendar.OnNewYear += newCalendar.DisplayMessage;
+        calendar.OnNewDay += bills.DisplayMessage;
 
         while (calendar.Year != 2025 || calendar.DayNumber != 2)
         {
@@ -22,4 +24,3 @@ class Program
         }
     }
 }
-
