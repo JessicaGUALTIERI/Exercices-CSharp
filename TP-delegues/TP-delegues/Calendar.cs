@@ -25,26 +25,16 @@ namespace TP_delegues
         public void NextDay()
 		{
             DetailedAlertArg alert = new DetailedAlertArg(Year, Month, Day, DayNumber);
-            if (OnNewDay != null)
-            {
-                OnNewDay(this, alert);
-            }
+            OnNewDay?.Invoke(this, alert);
             if (DayNumber >= DAYS_IN_MONTH)
 			{
-                if (OnNewMonth != null)
-                {
-                    OnNewMonth(this, alert);
-                }
+                OnNewMonth?.Invoke(this, alert);
                 if (Month == Month.December)
                 {
                     Month = Month.January;
-                    if (OnNewYear != null)
-                    {
-                        OnNewYear(this, alert);
-                    }
+                    OnNewYear?.Invoke(this, alert);
                     Year++;
-                }
-                else
+                } else
                 {
                     Month++;
                 }
@@ -55,13 +45,9 @@ namespace TP_delegues
             }
             if (Day == Day.Sunday)
             {
-                if (OnNewWeek != null)
-                {
-                    OnNewWeek(this, alert);
-                }
+                OnNewWeek?.Invoke(this, alert);
                 Day = Day.Monday;
-            }
-            else
+            } else
             {
                 Day++;
             }

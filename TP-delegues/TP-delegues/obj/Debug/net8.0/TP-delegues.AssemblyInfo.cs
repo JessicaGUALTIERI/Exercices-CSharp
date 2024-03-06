@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-delegues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+288ea4bd1f0ac448c9c2298920643fa2bab4a84d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+747fbdbfe430cd7400a592d91805f8cf1d4c2e4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-delegues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-delegues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
