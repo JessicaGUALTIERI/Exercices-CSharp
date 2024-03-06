@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{8E83ABF6-26F5-4C66-88F8-0B12693B3318}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-bot-discord/PostArgs.cs">
+    <Files>
+      <File FileName="TP-bot-discord/Program.cs" Line="29" Column="2" />
+      <File FileName="TP-bot-discord/User.cs" Line="18" Column="2" />
+      <File FileName="TP-bot-discord/Message.cs" Line="34" Column="2" />
+      <File FileName="TP-bot-discord/Channel.cs" Line="28" Column="2" />
+      <File FileName="TP-bot-discord/Server.cs" Line="37" Column="2" />
+      <File FileName="TP-bot-discord/Bot.cs" Line="21" Column="2" />
+      <File FileName="TP-bot-discord/PostArgs.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-bot-discord" expanded="True">
+            <Node name="TP-bot-discord">
+              <Node name="PostArgs.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>DetailedAlertArg</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-bot-discord PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

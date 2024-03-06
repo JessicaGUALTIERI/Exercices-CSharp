@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/bin/Debug/net8.0/TP-bot-discord
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/bin/Debug/net8.0/TP-bot-discord.deps.json
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/bin/Debug/net8.0/TP-bot-discord.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/bin/Debug/net8.0/TP-bot-discord.dll
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/bin/Debug/net8.0/TP-bot-discord.pdb
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.sourcelink.json
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.dll
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/refint/TP-bot-discord.dll
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.pdb
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/TP-bot-discord.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-bot-discord/TP-bot-discord/obj/Debug/net8.0/ref/TP-bot-discord.dll
