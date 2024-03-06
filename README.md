@@ -39,6 +39,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP_MethodeGenerique : application des concepts de généricité  
 * TP-Roguelike : jeu type roguelike avec polymorphismes, héritages, interfaces  
 * TP-delegues : premier usage des délégués et événements  
+* TP-bot-discord : création d'un faux bot Discord (en console) qui réagit à chaque nouveau message posté sur un Channel  
 
 #### __Tests unitaires / déboggage :__
 * TP_calculatrice : écriture et mise en oeuvre de mes premiers tests unitaires  
