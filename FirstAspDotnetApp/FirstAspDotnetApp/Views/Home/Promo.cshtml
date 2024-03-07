@@ -1,0 +1,10 @@
+﻿@model FirstAspDotnetApp.ViewModels.Home.PromoViewModel
+
+@{
+    ViewData["Title"] = "Promo";
+}
+
+<h1>Promo :</h1>
+<ul>
+    @foreach (string promo in Model.Promos) { <li>@promo</li> }
+</ul>
