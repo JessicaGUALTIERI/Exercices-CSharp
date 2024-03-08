@@ -13,6 +13,7 @@ namespace TP_bot_discord
 			DateTimeOfPosting = DateTime.Now;
 			this.Author = Author;
 			this.Content = Content;
+			Author.Messages.Add(this);
 		}
 
         public Message(string Content)
@@ -23,12 +24,13 @@ namespace TP_bot_discord
 
         public void Post(Channel channel)
 		{
-			PostArgs postArgs = new PostArgs(Author, Content);
+            PostArgs postArgs = new PostArgs(Author, Content);
 			channel.History.Add(this);
 			if (Content.Contains("welcome") || Content.Contains("Welcome"))
 			{
 				OnPost?.Invoke(this, postArgs);
 			}
+			
         }
 	}
 }

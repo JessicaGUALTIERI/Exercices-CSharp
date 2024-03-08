@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-bot-discord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a286f6eaec2f8a9f0dc96b165916c056bf19b236")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4146a96d83a60d91b547db7358c2aaa06067efc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-bot-discord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-bot-discord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
