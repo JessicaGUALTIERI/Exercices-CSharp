@@ -15,6 +15,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 #### LINQ :  
 * TP - LINQ W3Resource : exercice de pratique de requêtes LINQ plus poussées  
 * TP - LINQ : exercice de pratique de requêtes LINQ basiques  
+* TP-Lambda-MusicApp : pratique des lambda  
 
 #### Jeux divers :
 * TP - jeu du serpent : jeu de société du serpent  
