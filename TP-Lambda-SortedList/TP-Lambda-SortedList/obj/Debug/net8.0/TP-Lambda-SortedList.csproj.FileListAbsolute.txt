@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/bin/Debug/net8.0/TP-Lambda-SortedList
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/bin/Debug/net8.0/TP-Lambda-SortedList.deps.json
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/bin/Debug/net8.0/TP-Lambda-SortedList.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/bin/Debug/net8.0/TP-Lambda-SortedList.dll
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/bin/Debug/net8.0/TP-Lambda-SortedList.pdb
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.sourcelink.json
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.dll
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/refint/TP-Lambda-SortedList.dll
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.pdb
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/TP-Lambda-SortedList.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Lambda-SortedList/TP-Lambda-SortedList/obj/Debug/net8.0/ref/TP-Lambda-SortedList.dll
