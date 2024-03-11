@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/bin/Debug/net8.0/TP-Lambda-MusicApp
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/bin/Debug/net8.0/TP-Lambda-MusicApp.deps.json
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/bin/Debug/net8.0/TP-Lambda-MusicApp.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/bin/Debug/net8.0/TP-Lambda-MusicApp.dll
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/bin/Debug/net8.0/TP-Lambda-MusicApp.pdb
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.sourcelink.json
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.dll
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/refint/TP-Lambda-MusicApp.dll
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.pdb
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/TP-Lambda-MusicApp.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-Lambda-MusicApp/TP-Lambda-MusicApp/obj/Debug/net8.0/ref/TP-Lambda-MusicApp.dll
