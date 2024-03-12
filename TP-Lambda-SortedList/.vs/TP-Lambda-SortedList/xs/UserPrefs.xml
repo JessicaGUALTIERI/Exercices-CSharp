@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{930064F7-F4AA-4A6D-8D20-80A56805B5CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP-Lambda-SortedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TP-Lambda-SortedList FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Lambda-SortedList/Program.cs">
+    <Files>
+      <File FileName="TP-Lambda-SortedList/Program.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Lambda-SortedList" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

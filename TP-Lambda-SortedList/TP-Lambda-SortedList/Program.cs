@@ -4,35 +4,34 @@ class Program
 {
     static void Main(string[] args)
     {
-        List<int> ListOfIntegers = new List<int> { 13, 98, 24, 9, 16, 76, 5, 1, 38, 49, 23 };
+        List<int> UnorderedListOfIntegers = new List<int> { 13, 98, 24, 9, 16, 76, 5, 1, 38, 49, 23 };
         Console.WriteLine("Before :");
-        DisplayList(ListOfIntegers);
+        DisplayList(UnorderedListOfIntegers);
 
-        List<int> OrderedListOfIntegers = SortMyList(ListOfIntegers, x => x + 10);
-        Console.WriteLine("After :");
+        List<int> OrderedListOfIntegers = SortMyList(UnorderedListOfIntegers, x => x + 10);
+        Console.WriteLine("After (+10) :");
         DisplayList(OrderedListOfIntegers);
 
         Console.WriteLine();
 
-        List<string> ListOfStrings = new List<string> { "animal", "car", "computer" };
+        List<string> ListOfSingularWords = new List<string> { "animal", "car", "computer", "test", "trouble", "game" };
         Console.WriteLine("Before :");
-        DisplayList(ListOfStrings);
+        DisplayList(ListOfSingularWords);
 
-        List<string> OrderedListOfStrings = SortMyList(ListOfStrings, x => x + "s");
-        Console.WriteLine("After :");
-        DisplayList(OrderedListOfStrings);
+        List<string> ListOfPluralWords = SortMyList(ListOfSingularWords, x => x + "s");
+        Console.WriteLine("After (+ \"s\") :");
+        DisplayList(ListOfPluralWords);
 
     }
 
     public static List<T> SortMyList<T>(List<T> myList, Func<T, T> sortMethod)
     {
-        List<T> newList = new List<T>();
-
+        List<T> toReturn = new List<T>();
         foreach (T element in myList)
         {
-            newList.Add(sortMethod(element));
+            toReturn.Add(sortMethod(element));
         }
-        return newList;
+        return toReturn;
     }
 
     public static void DisplayList<T>(List<T> list)

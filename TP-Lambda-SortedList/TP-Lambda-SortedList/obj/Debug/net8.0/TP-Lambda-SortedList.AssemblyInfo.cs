@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-Lambda-SortedList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8258cba727dc0aed251769278180156fb9185a77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af817073413b55258f27a2c7108d42f5a5e42fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-Lambda-SortedList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-Lambda-SortedList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
