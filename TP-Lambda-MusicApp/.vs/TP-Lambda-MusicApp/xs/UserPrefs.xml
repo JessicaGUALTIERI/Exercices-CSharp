@@ -1,27 +1,30 @@
 ﻿<Properties StartupConfiguration="{67863EEE-E92B-46D6-BA6A-316ECB98BAA2}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.TP-Lambda-MusicApp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Lambda-MusicApp/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Lambda-MusicApp/Database.cs">
     <Files>
       <File FileName="TP-Lambda-MusicApp/Program.cs" Line="9" Column="34" />
       <File FileName="TP-Lambda-MusicApp/Music.cs" Line="15" Column="23" />
-      <File FileName="TP-Lambda-MusicApp/Database.cs" Line="45" Column="2" />
+      <File FileName="TP-Lambda-MusicApp/Database.cs" Line="27" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-Lambda-MusicApp" expanded="True">
+          <Node name="TP-Lambda-MusicApp">
             <Node name="TP-Lambda-MusicApp">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Database.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TP-Lambda-MusicApp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

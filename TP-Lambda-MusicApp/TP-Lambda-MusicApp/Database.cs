@@ -15,19 +15,19 @@ namespace TP_Lambda_MusicApp
             };
         }
 
-        public static Action<string> SearchGenre = (research) =>
+        public static Action<string> SearchGenre = (searchQuery) =>
         {
-            Console.WriteLine("Results for \"" + research + "\" :");
-            foreach (Music music in Musics.Where(x => x.Genre == research))
+            Console.WriteLine("Results for \"" + searchQuery + "\" :");
+            foreach (Music music in Musics.Where(x => x.Genre == searchQuery))
             {
                 Console.WriteLine("\t- " + music.Title + " - " + music.Artist);
             }
         };
 
-        public static Action<string> SearchTitle = (research) =>
+        public static Action<string> SearchTitle = (searchQuery) =>
         {
-            Console.WriteLine("Results for \"" + research + "\" :");
-            foreach (Music music in Musics.Where(x => x.Title.Contains(research)))
+            Console.WriteLine("Results for \"" + searchQuery + "\" :");
+            foreach (Music music in Musics.Where(x => x.Title.Contains(searchQuery)))
             {
                 Console.WriteLine("\t- " + music.Title + " - " + music.Artist);
             }
