@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-Testboutons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5cf4f1a07ecb3ebbeb1106afdc8b0a7282fc891")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-Testboutons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-Testboutons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

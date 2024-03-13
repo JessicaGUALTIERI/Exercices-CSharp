@@ -21,35 +21,35 @@ namespace TP_Testboutons
             InitializeComponent();
         }
 
-        private void incrementorMinus_Click(object sender, RoutedEventArgs e)
+        private void IncrementorMinus_Click(object sender, RoutedEventArgs e)
         {
             int toReturn = int.Parse(incrementorResult.Text);
             toReturn--;
             incrementorResult.Text = toReturn.ToString();
         }
 
-        private void incrementorPlus_Click(object sender, RoutedEventArgs e)
+        private void IncrementorPlus_Click(object sender, RoutedEventArgs e)
         {
             int toReturn = int.Parse(incrementorResult.Text);
             toReturn++;
             incrementorResult.Text = toReturn.ToString();
         }
 
-        private void calculatorPlus_Click(object sender, RoutedEventArgs e)
+        private void CalculatorPlus_Click(object sender, RoutedEventArgs e)
         {
             int numberOneInt = int.Parse(numberOne.Text);
             int numberTwoInt = int.Parse(numberTwo.Text);
             calculatorResult.Text = (numberOneInt + numberTwoInt).ToString();
         }
 
-        private void calculatorMinus_Click(object sender, RoutedEventArgs e)
+        private void CalculatorMinus_Click(object sender, RoutedEventArgs e)
         {
             int numberOneInt = int.Parse(numberOne.Text);
             int numberTwoInt = int.Parse(numberTwo.Text);
             calculatorResult.Text = (numberOneInt - numberTwoInt).ToString();
         }
 
-        private void calculatorDivide_Click(object sender, RoutedEventArgs e)
+        private void CalculatorDivide_Click(object sender, RoutedEventArgs e)
         {
             int numberOneInt = int.Parse(numberOne.Text);
             int numberTwoInt = int.Parse(numberTwo.Text);
@@ -62,14 +62,14 @@ namespace TP_Testboutons
             }
         }
 
-        private void calculatorMultiply_Click(object sender, RoutedEventArgs e)
+        private void CalculatorMultiply_Click(object sender, RoutedEventArgs e)
         {
             int numberOneInt = int.Parse(numberOne.Text);
             int numberTwoInt = int.Parse(numberTwo.Text);
             calculatorResult.Text = (numberOneInt * numberTwoInt).ToString();
         }
 
-        private void randomNumberGenerate_Click(object sender, RoutedEventArgs e)
+        private void RandomNumberGenerate_Click(object sender, RoutedEventArgs e)
         {
             int numberMinimum = int.Parse(randomMinimum.Text);
             int numberMaximum = int.Parse(randomMaximum.Text);

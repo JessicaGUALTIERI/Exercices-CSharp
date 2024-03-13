@@ -7,21 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="incrementorPlus" Content="+" HorizontalAlignment="Left" Margin="25,102,0,0" VerticalAlignment="Top" Width="80" Click="incrementorPlus_Click"/>
-        <Button x:Name="incrementorMinus" Content="-" HorizontalAlignment="Left" Margin="130,102,0,0" VerticalAlignment="Top" Width="80" Click="incrementorMinus_Click"/>
+        <Button x:Name="incrementorPlus" Content="+" HorizontalAlignment="Left" Margin="25,102,0,0" VerticalAlignment="Top" Width="80" Click="IncrementorPlus_Click"/>
+        <Button x:Name="incrementorMinus" Content="-" HorizontalAlignment="Left" Margin="130,102,0,0" VerticalAlignment="Top" Width="80" Click="IncrementorMinus_Click"/>
         <TextBlock x:Name="incrementorResult" HorizontalAlignment="Left" Margin="114,59,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
 
         <TextBlock x:Name="calculatorResult" HorizontalAlignment="Left" Margin="114,249,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
         <TextBox x:Name="numberOne" HorizontalAlignment="Left" Margin="25,275,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
         <TextBox x:Name="numberTwo" HorizontalAlignment="Left" Margin="130,275,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
-        <Button x:Name="calculatorPlus" Content="+" HorizontalAlignment="Left" Margin="25,310,0,0" VerticalAlignment="Top" Width="80" Click="calculatorPlus_Click"/>
-        <Button x:Name="calculatorMinus" Content="-" HorizontalAlignment="Left" Margin="130,310,0,0" VerticalAlignment="Top" Width="80" Click="calculatorMinus_Click"/>
-        <Button x:Name="calculatorDivide" Content="/" HorizontalAlignment="Left" Margin="130,335,0,0" VerticalAlignment="Top" Width="80" Click="calculatorDivide_Click"/>
-        <Button x:Name="calculatorMultiply" Content="*" HorizontalAlignment="Left" Margin="25,335,0,0" VerticalAlignment="Top" Width="80" Click="calculatorMultiply_Click"/>
+        <Button x:Name="calculatorPlus" Content="+" HorizontalAlignment="Left" Margin="25,310,0,0" VerticalAlignment="Top" Width="80" Click="CalculatorPlus_Click"/>
+        <Button x:Name="calculatorMinus" Content="-" HorizontalAlignment="Left" Margin="130,310,0,0" VerticalAlignment="Top" Width="80" Click="CalculatorMinus_Click"/>
+        <Button x:Name="calculatorDivide" Content="/" HorizontalAlignment="Left" Margin="130,335,0,0" VerticalAlignment="Top" Width="80" Click="CalculatorDivide_Click"/>
+        <Button x:Name="calculatorMultiply" Content="*" HorizontalAlignment="Left" Margin="25,335,0,0" VerticalAlignment="Top" Width="80" Click="CalculatorMultiply_Click"/>
         
         <TextBlock x:Name="randomNumber" HorizontalAlignment="Left" Margin="545,176,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
         <TextBox x:Name="randomMinimum" HorizontalAlignment="Left" Margin="456,202,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
         <TextBox x:Name="randomMaximum" HorizontalAlignment="Left" Margin="561,202,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80"/>
-        <Button x:Name="randomGenerate" Content="Generate" HorizontalAlignment="Left" Margin="508,237,0,0" VerticalAlignment="Top" Width="80" Click="randomNumberGenerate_Click"/>
+        <Button x:Name="randomGenerate" Content="Generate" HorizontalAlignment="Left" Margin="508,237,0,0" VerticalAlignment="Top" Width="80" Click="RandomNumberGenerate_Click"/>
     </Grid>
 </Window>
