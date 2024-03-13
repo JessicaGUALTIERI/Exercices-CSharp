@@ -51,6 +51,10 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP_UnitTests_FizzBuzzProject : écriture des tests unitaires dans le cadre du FizzBuzz Challenge
 * TP - débogage : introduction au débogage sur Visual Studio  
 
+#### __WPF (version Windows, utilisation d'une VM)__ :
+* TP-Testboutons : première utilisation de WPF  
+* TP-SubscriptionToNewspaper : utilisation de WPF pour créer un formulaire d'inscription à un journal  
+
 ## 🚀 __Technologies utilisées__  
 C#
 
