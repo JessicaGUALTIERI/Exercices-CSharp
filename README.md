@@ -71,3 +71,4 @@ C#
 ## 🏋️‍♀️ __À perfectionner/difficultés__  
 * Soin du code
 * Requêtes LINQ
+* Évènements et délégués
