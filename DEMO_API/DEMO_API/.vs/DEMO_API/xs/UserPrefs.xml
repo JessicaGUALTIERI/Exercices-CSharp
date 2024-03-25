@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{AF526C6B-4B98-486C-81F5-B46A21340B33}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DEMO__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/Student.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="1" />
+      <File FileName="Endpoints/GetAllStudentsEndpoint.cs" Line="19" Column="73" />
+      <File FileName="Model/Student.cs" Line="11" Column="4" />
+      <File FileName="Model/Promotion.cs" Line="6" Column="35" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="DTO/Requests/GetStudentByIdRequest.cs" Line="6" Column="30" />
+      <File FileName="Endpoints/GetStudentByIdEndpoint.cs" Line="21" Column="10" />
+      <File FileName="DTO/Requests/CreateStudentRequest.cs" Line="10" Column="3" />
+      <File FileName="DTO/Responses/CreateStudentResponse.cs" Line="6" Column="30" />
+      <File FileName="Validator/CreateStudentValidator.cs" Line="15" Column="4" />
+      <File FileName="Endpoints/CreateStudentEndpoint.cs" Line="12" Column="4" />
+      <File FileName="DTO/Requests/DeleteStudentByIdRequest.cs" Line="6" Column="30" />
+      <File FileName="DTO/Responses/DeleteStudentResponse.cs" Line="3" Column="2" />
+      <File FileName="Endpoints/DeleteStudentByIdEndpoint.cs" Line="20" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DEMO_API" expanded="True">
+            <Node name="DEMO_API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DTO" expanded="True">
+                <Node name="Requests" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Endpoints" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Validator" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
