@@ -53,7 +53,8 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 
 #### __WPF (version Windows, utilisation d'une VM)__ :
 * TP-Testboutons : première utilisation de WPF  
-* TP-SubscriptionToNewspaper : utilisation de WPF pour créer un formulaire d'inscription à un journal 
+* TP-SubscriptionToNewspaper : utilisation de WPF pour créer un formulaire d'inscription à un journal
+* TP-WPF-MusicApp : reproduction d'une interface de Deezer avec recherche de musiques par genre
 
 #### __API__ :
 * DEMO_API : première utilisation d'une API (FastEndpoint)
