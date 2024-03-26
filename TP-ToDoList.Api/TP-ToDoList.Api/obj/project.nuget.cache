@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQjeabwpSA5fn2RZIC2ijZMHMAwEKa8aO2niDYGYHdFNfWkAowdkTG+XTDt/uB/KSNvFhDbS9w1u3QO5mQO8Tw==",
+  "success": true,
+  "projectFilePath": "/Users/gualtierijessica/Projects/TP-ToDoList.Api/TP-ToDoList.Api/TP-ToDoList.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/gualtierijessica/.nuget/packages/fastendpoints/5.23.0/fastendpoints.5.23.0.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/fastendpoints.attributes/5.23.0/fastendpoints.attributes.5.23.0.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/fastendpoints.messaging.core/5.23.0/fastendpoints.messaging.core.5.23.0.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

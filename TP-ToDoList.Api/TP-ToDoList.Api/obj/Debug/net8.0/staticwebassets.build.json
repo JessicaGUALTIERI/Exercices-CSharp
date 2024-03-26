@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L0BTDzKvkzKqhbP7jCHVKi4G5UDFVlPwUvSlpTP+u9Q=",
+  "Source": "TP-ToDoList.Api",
+  "BasePath": "_content/TP-ToDoList.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
