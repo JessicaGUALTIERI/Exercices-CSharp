@@ -60,6 +60,9 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * DEMO_API : première utilisation d'une API (FastEndpoint)
 * TP-ToDoList.Api : entraînement à l'utilisation d'API (FastEndpoint)
 
+#### __Entity__ :
+* Demo-Entity : première utilisation d'Entity
+
 ## 🚀 __Technologies utilisées__  
 C#
 
