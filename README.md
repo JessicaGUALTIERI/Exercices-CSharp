@@ -58,6 +58,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 
 #### __API__ :
 * DEMO_API : première utilisation d'une API (FastEndpoint)
+* TP-ToDoList.Api : entraînement à l'utilisation d'API (FastEndpoint)
 
 ## 🚀 __Technologies utilisées__  
 C#
