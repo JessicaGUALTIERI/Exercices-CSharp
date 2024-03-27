@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8D78A434-6784-4C19-BFDE-333A267768FF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Entity-FirstTP/Database/DatabaseContext.cs">
+    <Files>
+      <File FileName="TP-Entity-FirstTP/Program.cs" Line="3" Column="1" />
+      <File FileName="TP-Entity-FirstTP/Database/DatabaseContext.cs" Line="32" Column="15" />
+      <File FileName="TP-Entity-FirstTP/Models/Animal.cs" Line="17" Column="26" />
+      <File FileName="TP-Entity-FirstTP/Models/Client.cs" Line="15" Column="14" />
+      <File FileName="TP-Entity-FirstTP/Models/Reservation.cs" Line="11" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Entity-FirstTP" expanded="True">
+            <Node name="TP-Entity-FirstTP" expanded="True">
+              <Node name="Database" expanded="True">
+                <Node name="DatabaseContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TP-Entity-FirstTP FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
