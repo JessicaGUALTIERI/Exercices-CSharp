@@ -11,6 +11,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 * TP-fonctions : premières écritures de fonctions en C#  
 * TP-25012024 : premiers exercices de C# avec lecture d'entrées utilisateurs  
 * TP-boucles : exercice pratique des boucles for et do...while  
+* TP-File-WorkingOnDatas : exercice pratique de lecture de fichier avec isolation de données pour calculer une moyenne
 
 #### LINQ :  
 * TP - LINQ W3Resource : exercice de pratique de requêtes LINQ plus poussées  
