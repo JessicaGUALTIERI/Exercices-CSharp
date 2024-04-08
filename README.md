@@ -63,6 +63,7 @@ Ensemble d'exercices (Travaux Pratiques et challenges personnels) pour pratiquer
 
 #### __Entity__ :
 * Demo-Entity : première utilisation d'Entity
+* TP-Entity-FirstTP : premier TP avec Entity
 
 ## 🚀 __Technologies utilisées__  
 C#
