@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/bin/Debug/net8.0/TP-File-WorkingOnDatas
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/bin/Debug/net8.0/TP-File-WorkingOnDatas.deps.json
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/bin/Debug/net8.0/TP-File-WorkingOnDatas.runtimeconfig.json
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/bin/Debug/net8.0/TP-File-WorkingOnDatas.dll
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/bin/Debug/net8.0/TP-File-WorkingOnDatas.pdb
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.sourcelink.json
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.dll
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/refint/TP-File-WorkingOnDatas.dll
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.pdb
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/TP-File-WorkingOnDatas.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/TP-File-WorkingOnDatas/TP-File-WorkingOnDatas/obj/Debug/net8.0/ref/TP-File-WorkingOnDatas.dll
