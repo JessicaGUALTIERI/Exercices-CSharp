@@ -4,34 +4,38 @@
     <h3>Categories</h3>
 }
 
-<ul>
-    @foreach (var category in Model)
-    {
-            <li>
-                <a asp-area="" asp-controller="Categories" asp-action="Index">@category.Name</a>
-            </li>
-    }
-</ul>
-
 @if (Model != null && Model.Count() > 0)
 {
-        <table class="table table-striped">
-            <thead>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
                 <tr>
-                    <th>Name</th>
-                    <th>Description</th>
-                    <th></th>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                    <td><a class="btn btn-link" asp-controller="categories" asp-action="edit" asp-route-id="@category.CategoryId">Edit</a></td>
+                    <td>
+                        <a class="btn btn-link" asp-controller="categories" asp-action="delete" asp-route-id="@category.CategoryId" onclick="return confirmDelete()">Delete</a>
+                    </td>
                 </tr>
-            </thead>
-            <tbody>
-                @foreach (var category in Model)
-{
-                        <tr>
-                            <td>@category.Name</td>
-                            <td>@category.Description</td>
-                            <td><a class="btn btn-link" asp-controller="categories" asp-action="edit" asp-route-id="@category.CategoryId">Edit</a></td>
-                        </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+    <a class="btn btn-primary" asp-controller="categories" asp-action="add">Add</a>
 }
-            </tbody>
-        </table>
+
+@section Scripts {
+    <script>
+        function confirmDelete() {
+            return confirm("Are you sure you want to delete this category ?");
+        }
+    </script>
 }
