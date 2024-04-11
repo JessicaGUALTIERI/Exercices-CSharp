@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SCQypXn0JtUTtGZR9NaqaGeGkKH280QnkyEA8KNsrhY/de+GPSE/bQabWiQ4OhOg4io1Oljq+kR/wBu/FvJJpQ==",
+  "dgSpecHash": "Kp6en/XIWSou3LwH+2cMp0hd6pTl7iZtmslH0dc4XmOE9m4N8t9XKM+rK7LJKut2s7H7kkAKz9mcrvbUj6Ge0A==",
   "success": true,
   "projectFilePath": "/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/TP-juste-prix.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/gualtierijessica/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

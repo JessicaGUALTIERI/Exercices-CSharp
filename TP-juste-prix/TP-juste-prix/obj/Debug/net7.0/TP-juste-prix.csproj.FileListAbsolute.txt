@@ -12,3 +12,4 @@
 /Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.pdb
 /Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.genruntimeconfig.cache
 /Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/ref/TP-juste-prix.dll
+/Users/gualtierijessica/Projects/TP-juste-prix/TP-juste-prix/obj/Debug/net7.0/TP-juste-prix.sourcelink.json
