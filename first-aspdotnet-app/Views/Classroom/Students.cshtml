@@ -1,0 +1,15 @@
+﻿@model FirstAspDotnetApp.ViewModels.Classroom.StudentsViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h1>Students of @Model.ClassroomName</h1>
+
+@foreach(Student student in Model.Students)
+{
+    <li>
+        <a class="btn btn-link" asp-controller="classroom" asp-action="studentDetails" asp-route-firstname="@student.Firstname">@student.Firstname @student.Lastname</a>
+    </li>
+}
+
