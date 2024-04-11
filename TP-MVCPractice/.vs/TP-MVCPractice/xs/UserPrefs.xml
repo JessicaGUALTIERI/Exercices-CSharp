@@ -6,29 +6,31 @@
   <MonoDevelop.Ide.ItemProperties.TP-MVCPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Controllers/CategoriesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Views/Categories/Edit.cshtml">
     <Files>
-      <File FileName="TP-MVCPractice/Program.cs" Line="17" Column="1" />
+      <File FileName="TP-MVCPractice/Program.cs" />
       <File FileName="TP-MVCPractice/Controllers/HomeController.cs" Line="2" Column="32" />
       <File FileName="TP-MVCPractice/Views/Home/Index.cshtml" Line="6" Column="37" />
-      <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" Line="2" Column="1" />
-      <File FileName="TP-MVCPractice/Views/Categories/Edit.cshtml" Line="18" Column="70" />
-      <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" Line="13" Column="3" />
-      <File FileName="TP-MVCPractice/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" Line="40" Column="14" />
+      <File FileName="TP-MVCPractice/Views/Categories/Edit.cshtml" Line="10" Column="44" />
+      <File FileName="TP-MVCPractice/Views/Categories/Add.cshtml" Line="6" Column="1" />
+      <File FileName="TP-MVCPractice/Views/Categories/_Category.cshtml" Line="21" Column="72" />
+      <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" Line="10" Column="3" />
+      <File FileName="TP-MVCPractice/Models/Category.cs" Line="11" Column="17" />
       <File FileName="TP-MVCPractice/Views/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="TP-MVCPractice/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="TP-MVCPractice/Views/Shared/_Layout.cshtml" Line="32" Column="42" />
       <File FileName="TP-MVCPractice/Models/CategoriesRepository.cs" Line="40" Column="12" />
       <File FileName="TP-MVCPractice/Views/_ViewImports.cshtml" Line="2" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-MVCPractice">
-            <Node name="TP-MVCPractice">
-              <Node name="Controllers">
-                <Node name="CategoriesController.cs" selected="True" />
-              </Node>
-              <Node name="Views">
+          <Node name="TP-MVCPractice" expanded="True">
+            <Node name="TP-MVCPractice" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Categories" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
