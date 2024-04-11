@@ -80,7 +80,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 // AFFICHAGE DE VICTOIRE :
                 Console.WriteLine("\nBRAVO : le chiffre mystère était bien : " + chiffreMystere + ", trouvé en " + nombreTentatives + " coup" + plurielTentative + " !");
-                Game game = new Game(nombreTentatives);
+                //Game game = new Game(nombreTentatives);
                 // RECOMMENCER ?
                 Console.WriteLine("Voulez-vous recommencer (oui/non) ?");
                 reponseUtilisateurRecommencer = Console.ReadLine();
@@ -92,7 +92,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 // TANT QU'ON VEUT RECOMMENCER, ON BOUCLE
             } while (recommencer == true);
-
+            Database.DeserializeGame();
             Database.DisplayDatabase();
         }
     }

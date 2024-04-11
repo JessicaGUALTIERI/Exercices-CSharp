@@ -1,31 +1,30 @@
 ﻿<Properties StartupConfiguration="{753C0D21-4C4D-4275-BD92-74192E269A6C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Program.cs">
-    <Files>
-      <File FileName="TP-juste-prix/Program.cs" Line="45" Column="26" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="TP-juste-prix" expanded="True">
-            <Node name="TP-juste-prix" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>lstElements</Value>
-          <Value>randomValue</Value>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.TP-juste-prix PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-juste-prix/Datas/Datas.json">
+    <Files>
+      <File FileName="TP-juste-prix/Program.cs" Line="96" Column="40" />
+      <File FileName="TP-juste-prix/Game.cs" Line="25" Column="18" />
+      <File FileName="TP-juste-prix/Database.cs" Line="43" Column="24" />
+      <File FileName="TP-juste-prix/Datas/Datas.json" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-juste-prix">
+            <Node name="TP-juste-prix">
+              <Node name="Datas" expanded="True">
+                <Node name="Datas.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

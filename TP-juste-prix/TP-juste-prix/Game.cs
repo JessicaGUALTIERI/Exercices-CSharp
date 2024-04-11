@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text.Json;
+
 namespace TP_juste_prix
 {
 	public class Game
@@ -6,7 +8,7 @@ namespace TP_juste_prix
 		public int GameId { get; set; }
 		public int Score { get; set; }
 
-		public static int GetMaxId()
+		public int GetMaxId()
 		{
 			Game maxIdGame = new Game();
 			if (Database.Games.Count() > 0)
@@ -27,6 +29,8 @@ namespace TP_juste_prix
         public Game()
         {
         }
+
+		
     }
 }
 
