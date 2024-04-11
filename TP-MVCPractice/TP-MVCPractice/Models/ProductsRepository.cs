@@ -1,4 +1,4 @@
-﻿namespace WebApp.Models
+﻿namespace TP_MVCPractice.Models
 {
     public class ProductsRepository
     {

@@ -13,6 +13,7 @@
     <None Remove="Views\Categories\" />
     <None Remove="Models\" />
     <None Remove="Views\Shared\" />
+    <None Remove="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Categories\" />
@@ -21,6 +22,7 @@
     <Folder Include="wwwroot\" />
     <Folder Include="wwwroot\lib\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
+    <Folder Include="Views\Product\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />

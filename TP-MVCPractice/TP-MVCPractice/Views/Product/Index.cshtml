@@ -1,0 +1,31 @@
+﻿@model List<Product>
+
+@section title {
+    <h3>Manage Products</h3>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Product category</th>
+            <th>Product name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.CategoryId</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+                <td></td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>
