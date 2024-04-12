@@ -17,59 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FirstAspDotnetApp
 build_property.RootNamespace = FirstAspDotnetApp
-build_property.ProjectDir = /Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/
+build_property.ProjectDir = /Users/gualtierijessica/Projects/first-aspdotnet-app/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app
+build_property.MSBuildProjectDirectory = /Users/gualtierijessica/Projects/first-aspdotnet-app
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Classroom/Index.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Classroom/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3Nyb29tL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Classroom/StudentDetails.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Classroom/NewClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3Nyb29tL05ld0NsYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Classroom/StudentDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3Nyb29tL1N0dWRlbnREZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Classroom/Students.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Classroom/Students.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3Nyb29tL1N0dWRlbnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Home/Index.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Shared/Error.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Shared/UserFriendlyError.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Shared/UserFriendlyError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1VzZXJGcmllbmRseUVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/_ViewImports.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/_ViewStart.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/gualtierijessica/Desktop/Gamory_ASP/first-aspdotnet-app/Views/Shared/_Layout.cshtml]
+[/Users/gualtierijessica/Projects/first-aspdotnet-app/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dz39boq3k4

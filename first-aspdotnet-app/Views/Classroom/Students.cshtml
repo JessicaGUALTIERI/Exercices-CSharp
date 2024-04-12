@@ -9,7 +9,7 @@
 @foreach(Student student in Model.Students)
 {
     <li>
-        <a class="btn btn-link" asp-controller="classroom" asp-action="studentDetails" asp-route-firstname="@student.Firstname">@student.Firstname @student.Lastname</a>
+        <a class="btn btn-link" asp-controller="classroom" asp-action="studentDetails" asp-route-id="@student.Id">@student.Firstname @student.Lastname</a>
     </li>
 }
 

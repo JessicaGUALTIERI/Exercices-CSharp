@@ -45,11 +45,16 @@ namespace FirstAspDotnetApp.Controllers
             }
 
         }
-
-        public IActionResult StudentDetails(string firstName)
+        
+        public IActionResult StudentDetails(int Id)
         {
-            var student = appData.Classrooms[0].Students.First(x => x.Firstname == firstName);
+            var student = appData.Classrooms[0].Students.First(x => x.Id == Id);
             return View(student);
+        }
+
+        public IActionResult NewClass()
+        {
+            return View();
         }
     }
 }
