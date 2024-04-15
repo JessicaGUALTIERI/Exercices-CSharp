@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-MVCPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c104720b69c50de158d8f650b53a285e89013baa")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6d78703b93e9f03d16c9fb13f201844ac7ad58")]
->>>>>>> c104720b69c50de158d8f650b53a285e89013baa
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a758263191149ff59fbc73509c155c15ce9414aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-MVCPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-MVCPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
