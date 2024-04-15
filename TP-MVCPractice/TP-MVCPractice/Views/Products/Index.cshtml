@@ -22,11 +22,12 @@
             {
                 <tr>
                     <td>@product.Category?.Name</td>
-                    <td>@product.CategoryId</td>
                     <td>@product.Name</td>
-                    <td>@product.Price</td>
+                    <td>@product.Price €</td>
                     <td>@product.Quantity</td>
-                    <td></td>
+                    <td>
+                        <a class="btn btn-link" asp-controller="products" asp-action="edit" asp-route-id="@product.ProductId">Edit</a>
+                    </td>
                     <td></td>
                 </tr>
             }
