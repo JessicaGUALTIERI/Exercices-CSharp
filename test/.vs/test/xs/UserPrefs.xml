@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B25FBA5C-F36F-4E73-86DC-D1F8B3A8EF47}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/MainWindow.axaml">
+    <Files>
+      <File FileName="test/App.axaml" Line="1" Column="1" />
+      <File FileName="test/MainWindow.axaml.cs" Line="12" Column="1" />
+      <File FileName="test/MainWindow.axaml" Line="11" Column="1" />
+      <File FileName="test/app.manifest" Line="1" Column="1" />
+      <File FileName="test/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test">
+              <Node name="MainWindow.axaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_MethodeGenerique")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4cec7e2a811dd39aaec72b0aab0fc01821812d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889f82cc9e14e94837c839cef3f119278b7a1b75")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_MethodeGenerique")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_MethodeGenerique")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

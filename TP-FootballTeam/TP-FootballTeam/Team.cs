@@ -31,11 +31,11 @@ namespace TP_FootballTeam
 			replacingPlayer.ChangeStatus(PlayerStatus.Playing);
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\n[" + replacedPlayer.Team.Name + "] " + replacedPlayer.FirstName + " " + replacedPlayer.LastName + " is replaced by " + replacingPlayer.FirstName + " " + replacingPlayer.LastName + ".");
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
         }
 
 
-		public void DisplayPlayers()
+        public void DisplayPlayers()
 		{
             CountOfPlayers();
             Console.BackgroundColor = ConsoleColor.White;
@@ -159,12 +159,13 @@ namespace TP_FootballTeam
                         {
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             Console.WriteLine("carton jaune)");
-                            Console.ForegroundColor = ConsoleColor.White;
-                        } else
+                            Console.ResetColor();
+                        }
+                        else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("carton rouge)");
-                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.ResetColor();
                         }
                     }
                 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "B/zhm7oGFmYiB6qp0pNPtDZEsSn5HnLX3DWYdxXeo/1EhYjOD6tGZtRmUCO29ZlNRd532j+GCy8/tmZL68ywxQ==",
+  "dgSpecHash": "baGyaTkzZvN7lvqNF0dthzFXFUsVt+k/XCXjkhp1MIksKe9FL6mKFK9Vp8TOqhGobX6QRFxlD/DAJLPu7BBoxg==",
   "success": true,
   "projectFilePath": "/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/TP - morpion.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/gualtierijessica/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512",
+    "/Users/gualtierijessica/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

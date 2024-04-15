@@ -1,34 +1,31 @@
 ﻿<Properties StartupConfiguration="{4ED9C28E-50FA-4459-8611-8531693BFBB8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Netflux/Episode.cs">
+  <MonoDevelop.Ide.ItemProperties.TP__Netflux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP_Netflux/TVShow.cs">
     <Files>
       <File FileName="TP_Netflux/Program.cs" Line="10" Column="33" />
       <File FileName="TP_Netflux/User.cs" Line="15" Column="27" />
-      <File FileName="TP_Netflux/Episode.cs" Line="12" Column="25" />
+      <File FileName="TP_Netflux/Episode.cs" Line="23" Column="1" />
       <File FileName="TP_Netflux/Content.cs" Line="8" Column="41" />
-      <File FileName="TP_Netflux/Movie.cs" Line="37" Column="2" />
+      <File FileName="TP_Netflux/Movie.cs" />
       <File FileName="TP_Netflux/TVShow.cs" Line="28" Column="49" />
       <File FileName="TP_Netflux/ISelectable.cs" Line="7" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP_Netflux">
-            <Node name="TP_Netflux">
-              <Node name="Episode.cs" selected="True" />
+          <Node name="TP_Netflux" expanded="True">
+            <Node name="TP_Netflux" expanded="True">
+              <Node name="TVShow.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TP__Netflux PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -1,4 +1,35 @@
 ﻿<Properties StartupConfiguration="{B265720C-56A7-4B30-968E-380EE6B64EA2}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Demo-Entity FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Demo-Entity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demo-Entity/Program.cs">
+    <Files>
+      <File FileName="Demo-Entity/Program.cs" Line="11" Column="2" />
+      <File FileName="Demo-Entity/TodoDbContext.cs" Line="20" Column="10" />
+      <File FileName="Demo-Entity/Todo.cs" Line="8" Column="3" />
+      <File FileName="Demo-Entity/Models/Status.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo-Entity" expanded="True">
+            <Node name="Demo-Entity">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Database" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

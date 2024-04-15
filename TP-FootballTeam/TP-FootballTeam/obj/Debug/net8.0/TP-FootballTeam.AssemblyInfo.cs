@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-FootballTeam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d938fe7e1d1bd6b0b6cb41b4042da02158b697ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5cf4f1a07ecb3ebbeb1106afdc8b0a7282fc891")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-FootballTeam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-FootballTeam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

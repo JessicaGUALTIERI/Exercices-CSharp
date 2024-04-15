@@ -8,7 +8,6 @@ class Program
         Dungeon.Initialize();
         while (Dungeon.EndOfDungeon(hero))
         {
-            
             Dungeon.DisplayRoom();
             Dungeon.EnteringARoom(hero);
             Dungeon.RoomNumber++;

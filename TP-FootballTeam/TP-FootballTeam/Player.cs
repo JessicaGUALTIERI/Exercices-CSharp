@@ -25,7 +25,7 @@ namespace TP_FootballTeam
 		{
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\n[" + Team.Name + "] " + FirstName + " " + LastName + " has received a yellow card !");
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
             Cards++;
 			CheckingCards();
 		}
@@ -34,7 +34,7 @@ namespace TP_FootballTeam
 		{
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("\n[" + Team.Name + "] " + FirstName + " " + LastName + " has received a red card !");
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
             Cards = 2;
 			CheckingCards();
 		}
@@ -46,7 +46,7 @@ namespace TP_FootballTeam
 				ChangeStatus(PlayerStatus.Penalized);
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("\n[" + Team.Name + "] " + FirstName + " " + LastName + " is now penalized for the rest of the match !");
-                Console.ForegroundColor = ConsoleColor.White;
+                Console.ResetColor();
             }
         }
 
@@ -61,7 +61,7 @@ namespace TP_FootballTeam
             replacingPlayer.ChangeStatus(PlayerStatus.Playing);
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\n[" + Team.Name + "] " + FirstName + " " + LastName + " is injured and has to be replaced by " + replacingPlayer.FirstName + " " + replacingPlayer.LastName + ".");
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ResetColor();
         }
 
         public void DisplayTeamsHistoric()

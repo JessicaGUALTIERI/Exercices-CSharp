@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{8E4F564A-8BCF-48D7-A96F-7389CF7A7BBA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.TP-File-WorkingOnDatas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-File-WorkingOnDatas/Program.cs">
     <Files>
-      <File FileName="TP-File-WorkingOnDatas/Program.cs" Line="25" Column="73" />
+      <File FileName="TP-File-WorkingOnDatas/Program.cs" Line="20" Column="73" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TP-File-WorkingOnDatas" expanded="True">
-            <Node name="TP-File-WorkingOnDatas" selected="True" />
+            <Node name="TP-File-WorkingOnDatas" expanded="True">
+              <Node name="datas" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

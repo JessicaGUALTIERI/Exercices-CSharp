@@ -1,4 +1,41 @@
 ﻿<Properties StartupConfiguration="{BD6D902A-7AF8-49C1-986A-A31B51E39E07}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TP-ToDoList.Api FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TP-ToDoList.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-ToDoList.Api/Database/TodoDbConnection.cs">
+    <Files>
+      <File FileName="TP-ToDoList.Api/Program.cs" Line="7" Column="22" />
+      <File FileName="TP-ToDoList.Api/Endpoints/TodoAddEndpoint.cs" Line="28" Column="6" />
+      <File FileName="TP-ToDoList.Api/Models/Todo.cs" Line="18" Column="4" />
+      <File FileName="TP-ToDoList.Api/DTO/Requests/GetTodoByIdRequest.cs" Line="6" Column="30" />
+      <File FileName="TP-ToDoList.Api/DTO/Responses/GetTodoByIdResponse.cs" Line="11" Column="2" />
+      <File FileName="TP-ToDoList.Api/Endpoints/CreateTodoEndpoint.cs" Line="18" Column="2" />
+      <File FileName="TP-ToDoList.Api/DTO/Requests/CreateTodoRequest.cs" Line="9" Column="24" />
+      <File FileName="TP-ToDoList.Api/DTO/Responses/CreateTodoResponse.cs" Line="6" Column="30" />
+      <File FileName="TP-ToDoList.Api/Validator/CreateTodoValidator.cs" Line="17" Column="62" />
+      <File FileName="TP-ToDoList.Api/Database/TodoDbConnection.cs" Line="21" Column="107" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-ToDoList.Api" expanded="True">
+            <Node name="TP-ToDoList.Api" expanded="True">
+              <Node name="Database" expanded="True" />
+              <Node name="DTO" expanded="True">
+                <Node name="Requests" expanded="True" />
+                <Node name="Responses" expanded="True" />
+              </Node>
+              <Node name="Endpoints" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Validator" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -12,3 +12,4 @@
 /Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.pdb
 /Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.genruntimeconfig.cache
 /Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/ref/TP - morpion.dll
+/Users/gualtierijessica/Projects/TP - morpion/TP - morpion/obj/Debug/net7.0/TP - morpion.sourcelink.json

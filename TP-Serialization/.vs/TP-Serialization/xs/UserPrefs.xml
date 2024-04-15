@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F76E3FBE-EF06-4BD2-BD3F-E8C17861924F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TP-Serialization FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-Serialization/Program.cs">
+    <Files>
+      <File FileName="TP-Serialization/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TP-Serialization" expanded="True">
+            <Node name="TP-Serialization">
+              <Node name="Datas" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
