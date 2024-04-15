@@ -12,8 +12,17 @@ namespace TP_MVCPractice.Models
 
 		public static void AddCategory(Category category)
 		{
-			var maxId = _categories.Max(x => x.CategoryId);
-			category.CategoryId = maxId + 1;
+            int maxId;
+            if (_categories != null && _categories.Count() > 0)
+            {
+                maxId = _categories.Max(x => x.CategoryId);
+                category.CategoryId = maxId + 1;
+            }
+            else
+            {
+                maxId = 1;
+            }
+            _categories ??= new List<Category>();
 			_categories.Add(category);
 		}
 
