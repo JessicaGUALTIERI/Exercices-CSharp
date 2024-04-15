@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.AspNetCore.Mvc;
 using TP_MVCPractice.Models;
+using TP_MVCPractice.ViewModels;
 
 namespace TP_MVCPractice.Controllers
 {
@@ -10,6 +11,15 @@ namespace TP_MVCPractice.Controllers
         {
             var products = ProductsRepository.GetProducts(loadCategory: true);
             return View(products);
+        }
+
+        public IActionResult Add()
+        {
+            var productViewModel = new ProductViewModel
+            {
+                Categories = CategoriesRepository.GetCategories()
+            };
+            return View(productViewModel);
         }
     }
 }
