@@ -59,6 +59,12 @@ namespace TP_MVCPractice.Controllers
             productViewModel.Categories = CategoriesRepository.GetCategories();
             return View(productViewModel);
         }
+
+        public IActionResult Delete(int id)
+        {
+            ProductsRepository.DeleteProduct(id);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
 
