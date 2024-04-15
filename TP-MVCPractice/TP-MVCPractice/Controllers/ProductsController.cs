@@ -4,7 +4,7 @@ using TP_MVCPractice.Models;
 
 namespace TP_MVCPractice.Controllers
 {
-	public class ProductController : Controller
+	public class ProductsController : Controller
 	{
         public IActionResult Index()
         {
