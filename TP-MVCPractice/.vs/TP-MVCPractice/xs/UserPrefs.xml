@@ -1,6 +1,5 @@
-﻿<Properties StartupConfiguration="{FB847FDD-7AFF-456C-89E5-E8600C8CFD6E}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.TP-MVCPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Views/_ViewImports.cshtml">
     <Files>
       <File FileName="TP-MVCPractice/Views/_ViewImports.cshtml" Line="4" Column="1" />
@@ -8,32 +7,20 @@
       <File FileName="TP-MVCPractice/Models/ProductsRepository.cs" />
       <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" />
       <File FileName="TP-MVCPractice/Views/Shared/_Layout.cshtml" />
-      <File FileName="TP-MVCPractice/Controllers/ProductController.cs" />
       <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-MVCPractice">
-            <Node name="TP-MVCPractice" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Categories" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Product" expanded="True" />
-                <Node name="Shared" expanded="True" />
-                <Node name="_ViewImports.cshtml" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="TP-MVCPractice" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TP-MVCPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
