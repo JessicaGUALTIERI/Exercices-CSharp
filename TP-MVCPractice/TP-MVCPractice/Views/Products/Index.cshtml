@@ -21,11 +21,8 @@
             @foreach (var product in Model)
             {
                 <tr>
-<<<<<<< HEAD
                     <td>@product.Category?.Name</td>
-=======
                     <td>@product.CategoryId</td>
->>>>>>> c104720b69c50de158d8f650b53a285e89013baa
                     <td>@product.Name</td>
                     <td>@product.Price</td>
                     <td>@product.Quantity</td>
@@ -36,4 +33,7 @@
         </tbody>
     </table>
 }
+
+<a class="btn btn-primary" asp-controller="categories" asp-action="add">Add</a>
+
 
