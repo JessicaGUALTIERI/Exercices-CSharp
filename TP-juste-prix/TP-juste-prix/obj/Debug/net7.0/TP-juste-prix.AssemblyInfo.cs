@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP-juste-prix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2aa63493f79d56ddde4a54cf5f5ed0a859e6628")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36c50e73d93170f833e85f2948f88133d129c8b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP-juste-prix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP-juste-prix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

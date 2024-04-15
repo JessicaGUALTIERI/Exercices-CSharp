@@ -19,11 +19,14 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Database.Initialize();
 
+            Console.WriteLine("JUSTE PRIX\nEntrez votre pseudo :");
+            string pseudo = Console.ReadLine();
+            Player player = new Player { Name = pseudo, PlayerScore = new List<int>() };
             // LE JEU :
             do
             {
                 // CHOIX DE DIFFICULTÉ
-                Console.WriteLine("JUSTE PRIX\nQuel niveau de difficulté souhaitez-vous ?\n'facile', 'moyen' ou 'difficile'");
+                Console.WriteLine("Quel niveau de difficulté souhaitez-vous ?\n'facile', 'moyen' ou 'difficile'");
                 string difficulte = Console.ReadLine();
 
                 // VERIF SI ON A UNE DONNÉE COHÉRENTE
@@ -80,7 +83,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 // AFFICHAGE DE VICTOIRE :
                 Console.WriteLine("\nBRAVO : le chiffre mystère était bien : " + chiffreMystere + ", trouvé en " + nombreTentatives + " coup" + plurielTentative + " !");
-                //Game game = new Game(nombreTentatives);
+                player.PlayerScore.Add(nombreTentatives);
+                player
                 // RECOMMENCER ?
                 Console.WriteLine("Voulez-vous recommencer (oui/non) ?");
                 reponseUtilisateurRecommencer = Console.ReadLine();
@@ -92,7 +96,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
                 // TANT QU'ON VEUT RECOMMENCER, ON BOUCLE
             } while (recommencer == true);
-            Database.DeserializeGame();
             Database.DisplayDatabase();
         }
     }
