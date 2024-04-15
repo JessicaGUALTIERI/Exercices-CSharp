@@ -14,7 +14,10 @@
     <None Remove="Models\" />
     <None Remove="Views\Shared\" />
     <None Remove="Views\Products\" />
+<<<<<<< HEAD
     <None Remove="ViewModels\" />
+=======
+>>>>>>> c104720b69c50de158d8f650b53a285e89013baa
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Categories\" />
@@ -24,7 +27,10 @@
     <Folder Include="wwwroot\lib\" />
     <Folder Include="wwwroot\lib\bootstrap\" />
     <Folder Include="Views\Products\" />
+<<<<<<< HEAD
     <Folder Include="ViewModels\" />
+=======
+>>>>>>> c104720b69c50de158d8f650b53a285e89013baa
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
