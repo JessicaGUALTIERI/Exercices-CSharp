@@ -1,11 +1,12 @@
 ﻿using System;
+using TP_MVCPractice.Models;
+
 namespace TP_MVCPractice.ViewModels
 {
 	public class SalesViewModel
 	{
-		public SalesViewModel()
-		{
-		}
+		public int SelectedCategoryId { get; set; }
+		public IEnumerable<Category> Categories { get; set; } = new List<Category>();
 	}
 }
 
