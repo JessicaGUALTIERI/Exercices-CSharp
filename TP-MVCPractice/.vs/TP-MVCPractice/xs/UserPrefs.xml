@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{FB847FDD-7AFF-456C-89E5-E8600C8CFD6E}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Controllers/SalesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/ViewModels/SalesViewModel.cs">
     <Files>
       <File FileName="TP-MVCPractice/ViewModels/ProductViewModel.cs" />
       <File FileName="TP-MVCPractice/Controllers/ProductsController.cs" />
@@ -11,15 +11,26 @@
       <File FileName="TP-MVCPractice/Views/Categories/Edit.cshtml" />
       <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" />
       <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" />
-      <File FileName="TP-MVCPractice/Models/ProductsRepository.cs" Line="18" Column="47" />
+      <File FileName="TP-MVCPractice/Models/ProductsRepository.cs" />
       <File FileName="TP-MVCPractice/Models/CategoriesRepository.cs" />
       <File FileName="TP-MVCPractice/Controllers/SalesController.cs" Line="11" Column="6" />
-      <File FileName="TP-MVCPractice/Views/Sales/Index.cshtml" Line="36" Column="22" />
+      <File FileName="TP-MVCPractice/Views/Sales/Index.cshtml" Line="37" Column="32" />
+      <File FileName="TP-MVCPractice/ViewModels/SalesViewModel.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-MVCPractice" expanded="True" selected="True" />
+          <Node name="TP-MVCPractice" expanded="True">
+            <Node name="TP-MVCPractice">
+              <Node name="Controllers" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="SalesViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Sales" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
