@@ -52,6 +52,8 @@
             $("#productsPartial").on("click", ".product-row", function () {
                 $(".product-row").removeClass("highlight");
                 $(this).addClass("highlight");
+                var productId = $(this).attr("product-id");
+                
             })
         });
     </script>
