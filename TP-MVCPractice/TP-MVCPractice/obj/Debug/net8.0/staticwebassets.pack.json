@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "/Users/gualtierijessica/Projects/TP-MVCPractice/TP-MVCPractice/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
       "Id": "/Users/gualtierijessica/Projects/TP-MVCPractice/TP-MVCPractice/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
       "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css"
     },

@@ -27,10 +27,12 @@
     <Folder Include="Views\Products\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Views\Sales\" />
+    <Folder Include="wwwroot\css\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
     <Content Remove="wwwroot\lib\" />
     <Content Remove="wwwroot\lib\bootstrap\" />
+    <Content Remove="wwwroot\css\" />
   </ItemGroup>
 </Project>
