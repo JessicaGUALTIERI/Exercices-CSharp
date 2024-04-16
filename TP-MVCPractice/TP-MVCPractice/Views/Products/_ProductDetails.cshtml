@@ -1,0 +1,38 @@
+﻿@model Product
+
+@if (Model != null)
+{
+    <form method="post" asp-controller="products" asp-action="">
+        <div class="mb-3 row">
+            <div class="col">
+                <label asp-for="Name" class="col-form-label"></label>
+            </div>
+            <div class="col">
+                <input type="text" asp-for="Name" class="form-control" />
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col">
+                <label asp-for="Price" class="col-form-label"></label>
+            </div>
+            <div class="col">
+                <input type="number" asp-for="Price" class="form-control" min="0" step="any" />
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col">
+                <label asp-for="Quantity" class="col-form-label"></label>
+            </div>
+            <div class="col">
+                <input type="number" asp-for="Quantity" class="form-control" min="1" />
+            </div>
+        </div>
+        <div class="mb-3 row">
+            <div class="col">
+                <input type="submit" class="btn btn-primary" value="Save" />
+            </div>
+            <div class="col">
+            </div>
+        </div>
+    </form>
+}
