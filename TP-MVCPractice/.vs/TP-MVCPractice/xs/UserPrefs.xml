@@ -1,45 +1,34 @@
 ﻿<Properties StartupConfiguration="{FB847FDD-7AFF-456C-89E5-E8600C8CFD6E}|https">
-  <MonoDevelop.Ide.ItemProperties.TP-MVCPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Models/ProductsRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TP-MVCPractice/Controllers/SalesController.cs">
     <Files>
-      <File FileName="TP-MVCPractice/ViewModels/ProductViewModel.cs" Line="9" Column="30" />
-      <File FileName="TP-MVCPractice/Controllers/ProductsController.cs" Line="66" Column="50" />
-      <File FileName="TP-MVCPractice/Views/Products/Add.cshtml" Line="8" Column="1" />
-      <File FileName="TP-MVCPractice/Views/Products/Edit.cshtml" Line="12" Column="37" />
-      <File FileName="TP-MVCPractice/Views/Products/Index.cshtml" Line="42" Column="19" />
-      <File FileName="TP-MVCPractice/Views/Products/_Product.cshtml" Line="11" Column="6" />
-      <File FileName="TP-MVCPractice/Views/Categories/Add.cshtml" Line="7" Column="34" />
-      <File FileName="TP-MVCPractice/Views/Categories/Edit.cshtml" Line="10" Column="20" />
-      <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" Line="1" Column="1" />
-      <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" Line="34" Column="1" />
+      <File FileName="TP-MVCPractice/ViewModels/ProductViewModel.cs" />
+      <File FileName="TP-MVCPractice/Controllers/ProductsController.cs" />
+      <File FileName="TP-MVCPractice/Views/Products/Add.cshtml" />
+      <File FileName="TP-MVCPractice/Views/Products/Edit.cshtml" />
+      <File FileName="TP-MVCPractice/Views/Products/Index.cshtml" />
+      <File FileName="TP-MVCPractice/Views/Products/_Product.cshtml" />
+      <File FileName="TP-MVCPractice/Views/Categories/Add.cshtml" />
+      <File FileName="TP-MVCPractice/Views/Categories/Edit.cshtml" />
+      <File FileName="TP-MVCPractice/Controllers/CategoriesController.cs" />
+      <File FileName="TP-MVCPractice/Views/Categories/Index.cshtml" />
       <File FileName="TP-MVCPractice/Models/ProductsRepository.cs" Line="18" Column="47" />
-      <File FileName="TP-MVCPractice/Models/CategoriesRepository.cs" Line="26" Column="28" />
+      <File FileName="TP-MVCPractice/Models/CategoriesRepository.cs" />
+      <File FileName="TP-MVCPractice/Controllers/SalesController.cs" Line="11" Column="6" />
+      <File FileName="TP-MVCPractice/Views/Sales/Index.cshtml" Line="36" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TP-MVCPractice" expanded="True">
-            <Node name="TP-MVCPractice" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Categories" expanded="True" />
-                <Node name="Products" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node name="TP-MVCPractice" expanded="True" selected="True" />
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TP-MVCPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
