@@ -71,12 +71,6 @@ namespace TP_MVCPractice.Controllers
             var products = ProductsRepository.GetProductsByCategoryId(categoryId);
             return PartialView("_Products", products);
         }
-
-        public IActionResult ProductDetailled(int productId)
-        {
-            var product = ProductsRepository.GetProductById(productId);
-            return PartialView("_ProductDetails", product);
-        }
     }
 }
 

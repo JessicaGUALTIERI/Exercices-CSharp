@@ -6,13 +6,10 @@ using Microsoft.AspNetCore.Mvc;
 using TP_MVCPractice.Models;
 using TP_MVCPractice.ViewModels;
 
-// For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace TP_MVCPractice.Controllers
 {
     public class SalesController : Controller
     {
-        // GET: /<controller>/
         public IActionResult Index()
         {
             var salesViewModel = new SalesViewModel
@@ -20,6 +17,12 @@ namespace TP_MVCPractice.Controllers
                 Categories = CategoriesRepository.GetCategories()
             };
             return View(salesViewModel);
+        }
+
+        public IActionResult SellProductPartial(int productId)
+        {
+            var product = ProductsRepository.GetProductById(productId);
+            return PartialView("_SellProduct", product);
         }
     }
 }

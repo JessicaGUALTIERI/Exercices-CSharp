@@ -33,7 +33,7 @@
             
         </div>
         <br />
-        <div id="productDetailsPartial">
+        <div id="productDetailPartial">
 
         </div>
         @*Sales form*@
@@ -48,12 +48,13 @@
         $(function () {
             $("#SelectedCategoryId").on("change", function () {
                 $("#productsPartial").load("/products/ProductsByCategoryPartial", { categoryId: $(this).val() });
+                $("#productDetailPartial").html("");
             })
             $("#productsPartial").on("click", ".product-row", function () {
                 $(".product-row").removeClass("highlight");
                 $(this).addClass("highlight");
                 var productId = $(this).attr("product-id");
-                $("#productDetailsPartial").load("/products/ProductDetailled", { productId: productId });
+                $("#productDetailPartial").load("/sales/SellProductPartial", { productId: productId });
             })
         });
     </script>
