@@ -18,6 +18,7 @@
 
 <div class="row">
     <div class="col-4">
+        <div class="text-danger" asp-validation-summary="All"></div>
         <select asp-for="SelectedCategoryId" class="form-control">
             <option>- Please Select -</option>
             @if (Model.Categories != null && Model.Categories.Count() > 0)
@@ -41,7 +42,7 @@
             <input asp-for="SelectedProductId" type="hidden" />
             <div class="form-group mt-3">
                 <label asp-for="QuantityToSell"></label>
-                <input type="number" asp-for="QuantityToSell" class="form-control" min="1" />
+                <input type="number" asp-for="QuantityToSell" class="form-control" min="1"/>
             </div>
             <br />
             <div class="form-group">
@@ -61,11 +62,18 @@
             $("#formSale").hide();
             $("#QuantityToSell").val("");
 
+            var selectedCategoryId = $("#SelectedCategoryId").val();
+            if (selectedCategoryId > 0) {
+                $("#productsPartial").load("/products/ProductsByCategoryPartial", { categoryId: selectedCategoryId });
+                $("#productDetailPartial").html("");
+                $("#formSale").hide();            }
+
             $("#SelectedCategoryId").on("change", function () {
                 $("#productsPartial").load("/products/ProductsByCategoryPartial", { categoryId: $(this).val() });
                 $("#productDetailPartial").html("");
                 $("#formSale").hide();
-            })
+            });
+
             $("#productsPartial").on("click", ".product-row", function () {
                 $(".product-row").removeClass("highlight");
                 $(this).addClass("highlight");
@@ -78,7 +86,7 @@
                     $("#SelectedProductId").val("");
                     $("#formSale").hide();
                 }
-            })
+            });
         });
     </script>
 }
