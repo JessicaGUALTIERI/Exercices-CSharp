@@ -16,6 +16,7 @@
     <None Remove="Views\Products\" />
     <None Remove="ViewModels\" />
     <None Remove="Views\Sales\" />
+    <None Remove="ViewModels\Validations\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Categories\" />
@@ -28,6 +29,7 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Views\Sales\" />
     <Folder Include="wwwroot\css\" />
+    <Folder Include="ViewModels\Validations\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
