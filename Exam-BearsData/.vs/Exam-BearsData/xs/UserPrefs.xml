@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4F35C0C6-7191-4EFF-AFBD-DB1764061ABB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Exam-BearsData PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exam-BearsData/Program.cs">
+    <Files>
+      <File FileName="Exam-BearsData/Program.cs" Line="1" Column="35" />
+      <File FileName="Exam-BearsData/datas/Bear_Result.csv" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exam-BearsData" expanded="True">
+            <Node name="Exam-BearsData">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

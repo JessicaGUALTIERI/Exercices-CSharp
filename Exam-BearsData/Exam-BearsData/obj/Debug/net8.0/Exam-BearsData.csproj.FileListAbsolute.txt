@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/bin/Debug/net8.0/Exam-BearsData
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/bin/Debug/net8.0/Exam-BearsData.deps.json
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/bin/Debug/net8.0/Exam-BearsData.runtimeconfig.json
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/bin/Debug/net8.0/Exam-BearsData.dll
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/bin/Debug/net8.0/Exam-BearsData.pdb
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.sourcelink.json
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.dll
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/refint/Exam-BearsData.dll
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.pdb
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/Exam-BearsData.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/Exam-BearsData/Exam-BearsData/obj/Debug/net8.0/ref/Exam-BearsData.dll
