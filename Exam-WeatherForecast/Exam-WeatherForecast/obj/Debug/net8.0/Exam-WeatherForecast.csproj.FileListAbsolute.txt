@@ -1,0 +1,15 @@
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/bin/Debug/net8.0/Exam-WeatherForecast
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/bin/Debug/net8.0/Exam-WeatherForecast.deps.json
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/bin/Debug/net8.0/Exam-WeatherForecast.runtimeconfig.json
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/bin/Debug/net8.0/Exam-WeatherForecast.dll
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/bin/Debug/net8.0/Exam-WeatherForecast.pdb
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.AssemblyInfoInputs.cache
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.AssemblyInfo.cs
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.csproj.CoreCompileInputs.cache
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.sourcelink.json
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.dll
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/refint/Exam-WeatherForecast.dll
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.pdb
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/Exam-WeatherForecast.genruntimeconfig.cache
+/Users/gualtierijessica/Projects/Exam-WeatherForecast/Exam-WeatherForecast/obj/Debug/net8.0/ref/Exam-WeatherForecast.dll
