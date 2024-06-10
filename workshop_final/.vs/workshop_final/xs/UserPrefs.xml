@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="Plusieurs projets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="workshop_final/Repositories/AnimalRepository.cs">
+    <Files>
+      <File FileName="workshop_final/Repositories/MenuRepository.cs" Line="7" Column="36" />
+      <File FileName="workshop_final/Repositories/MenusRepositories/ModifySpeciesMenuRepository.cs" Line="18" Column="1" />
+      <File FileName="workshop_final/Program.cs" Line="6" Column="2" />
+      <File FileName="workshop_final/Repositories/MenusRepositories/AppMenuRepository.cs" Line="35" Column="36" />
+      <File FileName="workshop_final/Repositories/UserRepository.cs" Line="43" Column="19" />
+      <File FileName="workshop_final/Repositories/AnimalRepository.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="workshop_final" expanded="True">
+            <Node name="workshop_final_console">
+              <Node name="Repositories">
+                <Node name="MenusRepositories" expanded="True" />
+                <Node name="AnimalRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="workshop_final" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>IsNotNullEmptyWhiteSpace(mail)</Value>
+          <Value>Regex.</Value>
+          <Value>Regex.IsMatch(mail, @"^[a-zA-Z0-9]+[a-zA-Z0-9._%+-]*@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$")</Value>
+          <Value>CurrentUser.Mail</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.workshop__final__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Plusieurs projets" Name="Plusieurs projets">
+      <Items>
+        <StartupItem ItemId="{CB913AC9-4DAD-4952-B14E-DB45524C82B6}" ItemName="workshop_final_console" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.workshop__final__console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
