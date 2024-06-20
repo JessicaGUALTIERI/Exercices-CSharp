@@ -1,0 +1,46 @@
+﻿@model TaskModel
+
+<form method="post" asp-controller="Task" asp-action="Create">
+    <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="Title" class="col-form-label">Title</label>
+        </div>
+        <div class="col-3">
+            <input type="text" asp-for="Title" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="Title"></span>
+        </div>
+    </div>
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="Description" class="col-form-label">Description</label>
+        </div>
+        <div class="col-3">
+            <input type="text" asp-for="Description" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+    </div>
+    <div class="mb-3 row">
+        <div class="col-2">
+            <label asp-for="DueDate" class="col-form-label">Due date</label>
+        </div>
+        <div class="col-3">
+            <input type="date" asp-for="DueDate" class="form-control" />
+        </div>
+        <div class="col">
+            <span class="text-danger" asp-validation-for="DueDate"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col">
+            <input type="submit" class="btn" value="Add" />
+        </div>
+    </div>
+</form>
+
